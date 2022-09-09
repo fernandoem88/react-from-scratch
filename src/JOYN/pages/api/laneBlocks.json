@@ -1,0 +1,2233 @@
+[
+  {
+    "id": "410:0f33d53799ab81f65cb43a5431afa1fe",
+    "headline": "Sarahs 20+ asset lane",
+    "assets": [
+      {
+        "id": "d_pcd3c2yqkvd",
+        "title": "Performance",
+        "primaryImage": {
+          "id": "5e9eb4a93727d7605e4c0c348d408f7c31ec6713",
+          "accentColor": "#e11042",
+          "darkAccentColor": "#870927",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025563911_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In den intensiven Power-Workouts gehst du an deine Grenzen. Und darüber hinaus. Stell dich immer wieder neuen Herausforderungen und erlebe Training auf dem nächsten Level.",
+        "path": "/serien/performance"
+      },
+      {
+        "id": "d_plaw6tlwnqm",
+        "title": "Koch die Box!",
+        "primaryImage": {
+          "id": "4c9d478f9833c343bac1cabf036cbd0cd65e51d2",
+          "accentColor": "#deb33f",
+          "darkAccentColor": "#856b25",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Koch%2Bdie%2BBox-/primaryImage-671d63075460a1d64c8b315e.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In \"Koch die Box!\" treten pro Folge drei kochenthusiastische Paare in einer Challenge gegeneinander an. In ihren eigenen Küchen sollen aus raffinierten und unbekannten Kochboxen echte Feinschmecker-Menüs zubereitet werden. Zusammengestellt werden diese von einem prominenten Fernsehkoch. Nach Ablauf der Zeit entscheiden die Verkoster, welches Paar die beste Koch-Performance hingelegt hat und 500 Euro in bar gewinnt.",
+        "path": "/serien/koch-die-box"
+      },
+      {
+        "id": "d_p6zy8fxhfmm",
+        "title": "Alaska X - Fälle des Paranormalen",
+        "primaryImage": {
+          "id": "675d741a682532e41575af186cbbf51e6b94c7d1",
+          "accentColor": "#0fd1d1",
+          "darkAccentColor": "#097d7d",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB393680003100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Mit seinen riesigen Gletschern, Seen und endloser unberührter Wildnis bietet Alaska atemberaubend schöne Naturlandschaften. Doch im Schatten der schneebedeckten Gipfel gehen übernatürliche Dinge vor sich: Ein Geist ist von den Toten erwacht und zieht ruhelos umher. Seine Opfer sind die Mitglieder einer amerikanischen Familie, die erst kürzlich aus dem Süden in das ehemalige Goldgräberstädtchen Salcha gezogen sind. Hier glauben sie, ein neues Heim und eine vielversprechende Zukunft gefunden zu haben. Doch das Böse ist unter ihnen und will ihr Leben zerstören. \"Alaska X - Fälle des Paranormalen\" untersucht übernatürliche Vorkommnisse, die sich im hohen Norden der Vereinigten Staaten zugetragen haben. Jede Episode erzählt die Geschichte von Menschen, die in Alaska das kalte Grauen am eigenen Leib erfahren mussten. ",
+        "path": "/serien/alaska-x-faelle-des-paranormalen"
+      },
+      {
+        "id": "d_pj5s1uykgoa",
+        "title": "Die Hütte und ich",
+        "primaryImage": {
+          "id": "19066fa46465ff66ceb8d58c716371cb029997f3",
+          "accentColor": "#b3d12a",
+          "darkAccentColor": "#6b7d19",
+          "url": "https://img-int.joyn.de/gn/assets/p13790582_i_h9_af.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "William Paul Young hat mit dem Buch \"Die Hütte\" einen der größten Bestseller der letzten Jahre geschrieben. Und auch die Verfilmung war ein großer Erfolg. In dieser 20-teiligen Dokumentation nimmt Young den Zuschauer mit auf eine Reise zu den zentralen Themen seines Buches und des christlichen Glaubens. Unter anderem geht es um die Gegenwart Gottes, die Bedeutung des Kreuzes oder um den Sinn leidvoller Erfahrungen. Auch die faszinierende Entstehungsgeschichte des Buches spielt eine Rolle, in dem Young neben den rein fiktionalen Elementen seinen eigenen Lebens- und Glaubensweg verarbeitet hat.",
+        "path": "/serien/die-huette-und-ich"
+      },
+      {
+        "id": "d_pbri8w1f73f",
+        "title": "United Voices - Das größte Fanduell der Welt",
+        "primaryImage": {
+          "id": "c84220c1d2b9978585e85ece6211850a42ca6071",
+          "accentColor": "#d94893",
+          "darkAccentColor": "#822b58",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000024562166_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Bei \"United Voices - Das größte Fanduell der Welt\" stehen bis zu 300 Fans auf der Bühne, singen gemeinsam mit ihrem Lieblingsstar seine größten Hits und stellen eine nie dagewesene Performance auf die Beine.",
+        "path": "/serien/united-voices-das-groesste-fanduell-der-welt"
+      },
+      {
+        "id": "d_p6ufve0uim8",
+        "title": "Lucky Lück",
+        "primaryImage": {
+          "id": "77300a5e9a2b148ae9a9cfdeaaca6c67529f8c37",
+          "accentColor": "#b84f47",
+          "darkAccentColor": "#6e2f2a",
+          "url": "https://img-int.joyn.de/gn/assets/p11878102_st_h9_aa.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "\"Lucky Lück\" ist die neue Sketch-Comedy mit Schauspieler, Moderator und Comedian Ingolf Lück. In 12 Episoden von ca. 25 Minuten Länge präsentiert Lück ausgewählte Sketche, die das Publikum begeistern werden. Neben weiteren Comedians schlüpft Lück in einigen Clips selbst in die Rolle des Protagonisten ...",
+        "path": "/serien/lucky-lueck"
+      },
+      {
+        "id": "d_pv8q1v5izeu",
+        "title": "Ultimate Rush",
+        "primaryImage": {
+          "id": "41c4bd44f127590a41d47c3cdfa2d9c6981fc563",
+          "accentColor": "#315585",
+          "darkAccentColor": "#1d334f",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Ultimate%2BRush/primary-ultimate_rush.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In diesen Extremsportarten riskieren Athleten ihr Leben. Um zu zeigen, weshalb sie das Risiko trotzdem eingehen, tun sich die Sportler mit professionellen Filmemachern zusammen.",
+        "path": "/serien/ultimate-rush"
+      },
+      {
+        "id": "d_pjm4gnf8pk2",
+        "title": "True Nightmares",
+        "primaryImage": {
+          "id": "bcb27095c4b1ffd7fac0b254452c0af91922e06a",
+          "accentColor": "#ddeb63",
+          "darkAccentColor": "#848d3b",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/True%2BNightmares/primaryImage-ecfc980660d0cbb720499b02.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Unglaubliches ist sein Metier: Magier, Schauspieler und Autor Todd Robbins präsentiert wahre Geschichten, in denen Alpträume auf grausame Weise zur Realität wurden.",
+        "path": "/serien/true-nightmares"
+      },
+      {
+        "id": "d_pjm4gmx8w6e",
+        "title": "Verflucht - Übersinnlich und unerklärlich",
+        "primaryImage": {
+          "id": "67b7cfe8197b228ba451c1ea8b16b8c27e4789bb",
+          "accentColor": "#cf743f",
+          "darkAccentColor": "#7c4525",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB494860006100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Bücher voller Beschwörungen, mysteriöse Amulette, unheilvolle Schatten: Die Welt ist voller dunkler Geheimnisse. In der Sendung berichten Augenzeugen von unerklärlichen Ereignissen.",
+        "path": "/serien/verflucht-uebersinnlich-und-unerklaerlich"
+      },
+      {
+        "id": "d_pjm4gmzvwcj",
+        "title": "Wenn Tiere angreifen",
+        "primaryImage": {
+          "id": "7f6eb3162f1fba2bfee68f56d088a1c9bb576916",
+          "accentColor": "#b97b66",
+          "darkAccentColor": "#6f493d",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Wenn%2BTiere%2Bangreifen/primaryImage-09f1c3e3ad83ddbdf03a4fd9.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Grizzlys, Klapperschlangen und Alligatoren: Ein Angriff dieser gefährlichen Tiere kann Menschen ihr Leben kosten. Hier erzählen Überlebende von ihren schrecklichen Erlebnissen.",
+        "path": "/serien/wenn-tiere-angreifen"
+      },
+      {
+        "id": "d_ppprm4mwnv1",
+        "title": "The Masked Singer",
+        "primaryImage": {
+          "id": "238689d39637373422c3a548ad8df8896c455d5e",
+          "accentColor": "#ff9bdf",
+          "darkAccentColor": "#995d85",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/The%2BMasked%2BSinger/primary-the-masked-singer-st04.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Wer steckt unter der Maske und singt sich die Seele aus dem Leib? Model, Fußballer, Moderator? In dieser Show geht es vor allem um die Performance - und nicht unbedingt um das Gesangstalent.",
+        "path": "/serien/the-masked-singer"
+      },
+      {
+        "id": "d_p6ufsdmw5hn",
+        "title": "Mensch Markus",
+        "primaryImage": {
+          "id": "c7a28609783891e7c4fdfcc54e3bfab1ec5b715d",
+          "accentColor": "#b3664e",
+          "darkAccentColor": "#6b3d2e",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/2b481444369e5f4daa52ae17100763e3_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In der Sketch-Comedy erlebt Markus den alltäglichen Wahnsinn. ",
+        "path": "/serien/mensch-markus"
+      },
+      {
+        "id": "d_pjm4gn8efth",
+        "title": "Das große Hunde-ABC",
+        "primaryImage": {
+          "id": "dde0334f86391816d1e90b7d0200cc5b56affe0c",
+          "accentColor": "#ddab62",
+          "darkAccentColor": "#84663a",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB415470006100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Welche Hunderasse ist am kleinsten? Welche riecht am besten? Und welchen Hund sollten sich Familien anschaffen? Antworten auf diese und weitere interessante Fragen gibt es hier.",
+        "path": "/serien/das-grosse-hunde-abc-best-of"
+      },
+      {
+        "id": "d_pj6he1dy15k",
+        "title": "Marvin, das steppende Pferd",
+        "primaryImage": {
+          "id": "e05a6d0d573cde7a257ca68e59b233df75cc4229",
+          "accentColor": "#b81716",
+          "darkAccentColor": "#6e0d0d",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Marvin-%2Bdas%2Bsteppende%2BPferd/primary-marvin-das-steppende-pferd.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Marvin ist der Meister im Stepptanz, hat jahrelang auf den Bühnen des Broadway gestanden und ist der weltbeste Geschichtenerzähler. Doch es kommt noch doller: Marvin ist ein Zirkuspferd und wurde vor langer Zeit aus der Manege eines Vergnügungsparks in die große Stadt geholt. Doch Ruhm, Erfolg und die Allüren der Star-Kollegen waren nicht Marvins Welt. Rasch kehrte er dem Broadway den Rücken, um wieder mit seinen echten Freunden in \"Jacks Vergnügungspark\" aufzutreten. Hier lernt Marvin auch eines Tages den kleinen Eddy kennen und sie werden dicke Freunde ...",
+        "path": "/serien/marvin-das-steppende-pferd"
+      },
+      {
+        "id": "d_p1jk7s44mwp",
+        "title": "Queen of Drags",
+        "primaryImage": {
+          "id": "7c1441534db32ec1dd1eb9a5f859b82fdfef7899",
+          "accentColor": "#ff4949",
+          "darkAccentColor": "#992b2b",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Queen%2Bof%2BDrags/primary-queen-of-drags_5.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Fantasievoll, schrill und wild: Heidi Klum, Conchita Wurst und Bill Kaulitz stellen den Drags jede Woche eine neue Aufgabe und bewerten, wer von Ihnen das Motto am besten umsetzt.",
+        "path": "/serien/queen-of-drags"
+      },
+      {
+        "id": "d_p28n2c8ecm6",
+        "title": "The Voice Kids",
+        "primaryImage": {
+          "id": "6db4bc7d72f9344cea6f6be4ab2b7d576dae93d2",
+          "accentColor": "#da253a",
+          "darkAccentColor": "#821622",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025467348_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Die Castingshow sucht junge Gesangstalente im Alter von acht bis vierzehn Jahren. Der Sieger bekommt einen Ausbildungsvertrag in Höhe von 15.000 Euro sowie einen optionalen Plattenvertrag.",
+        "path": "/serien/the-voice-kids"
+      },
+      {
+        "id": "d_pixgpss4g3d",
+        "title": "U.B.O.S.",
+        "primaryImage": {
+          "id": "2aae9829a33b57c1de73c5093cf91ae742700c64",
+          "accentColor": "#dcb25e",
+          "darkAccentColor": "#846a38",
+          "url": "https://img-int.joyn.de/gn/assets/p309120_i_h9_ab.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Bei U.B.O.S bekommt fast jedes Menschen-Kind mit seiner Geburt die Gabe geschenkt, zaubern zu können. Die meisten unter ihnen entdecken diese Gabe leider nie. Gut, dass es noch die Kinder gibt, die aus Zauberfamilien kommen. Ihnen wurde das Zaubern in die Wiege gelegt. Doch auf der Erde ist es wie verhext.",
+        "path": "/serien/ubos"
+      },
+      {
+        "id": "d_pny5vbstfpn",
+        "title": "Genial daneben",
+        "primaryImage": {
+          "id": "24ac039f0a5e9eb630c127071348be4e524ad742",
+          "accentColor": "#f47134",
+          "darkAccentColor": "#92431f",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000024673299_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Was ist der \"Peitschenmontag\"? Für was braucht man einen \"Paarungshelfer\"? Und woher kommt \"Opferwurst\"? Hugo Egon Balder stellt die Fragen der Zuschauer, die Promis geben lustige Antworten.",
+        "path": "/serien/genial-daneben-20"
+      },
+      {
+        "id": "d_p2rmtyu5ij1",
+        "title": "Wunder auf 4 Pfoten",
+        "primaryImage": {
+          "id": "df031f5c33623793232e5c29f5a3657ddc0eb244",
+          "accentColor": "#efac45",
+          "darkAccentColor": "#8f6729",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000024262242_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Die ersten 100 Tage von Hundewelpen und Katzenbabys sind gespickt mit bezaubernden ersten Malen. Der Hundeexperte Jochen Bendel ist bei der Entwicklung der kleinen Lebewesen dabei.",
+        "path": "/serien/wunder-auf-4-pfoten"
+      },
+      {
+        "id": "d_p2ttt90hcdx",
+        "title": "Saturday Night Live",
+        "primaryImage": {
+          "id": "71379fb5decbbc7e96752ba3d2203f02a7ede4ec",
+          "accentColor": "#626262",
+          "darkAccentColor": "#3a3a3a",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/f2630399cf795f8a884311dc41bf6513_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Das US-Comedy-Urgestein: Wöchentlich zieht die legendäre Show das aktuellen Geschehen in den Staaten durch den Kakao. Die aktuelle Folge immer eine Woche nach US-Ausstrahlung.",
+        "path": "/serien/saturday-night-live"
+      },
+      {
+        "id": "d_p4w27msr7zo",
+        "title": "Saturday Night Live - Classics",
+        "primaryImage": {
+          "id": "a8f8e75f74de99a674e351e6df706687f5fad676",
+          "accentColor": "#98522f",
+          "darkAccentColor": "#5b311c",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/ead0b7a1cf7f5e9f99298689223ebf51_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Es ist die Mutter aller Late Night Comedy Shows, in der die besten Folgen des US-TV-Klassikers präsentiert werden. Gäste sind unter anderem Billy Crystal oder Robert DeNiro.",
+        "path": "/serien/saturday-night-live-classics"
+      }
+    ]
+  },
+  {
+    "id": "410:25ce2e965a1112d7a87c1bc893fb3cd7",
+    "headline": "Im TV verpasst?",
+    "assets": [
+      {
+        "id": "d_p78lq628h9p",
+        "title": "Der Camping Clan - Alles für den Platz",
+        "primaryImage": {
+          "id": "ab26fe208f550348643f9d7ad9a581264eccda4f",
+          "accentColor": "#116afc",
+          "darkAccentColor": "#0a3f97",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB524670010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Der Besitzer eines riesigen Campingplatzes überlässt das Geschäft seinen Söhnen, die einen Neustart wollen. Die Doku zeigt, welche Innovationen fruchten und welche in der Tonne landen.",
+        "path": "/serien/der-camping-clan-alles-fuer-den-platz"
+      },
+      {
+        "id": "d_pvffhp6fq5d",
+        "title": "Beach House Hunters",
+        "primaryImage": {
+          "id": "791abc05cfe3310f77904a7f22ce04074e81f55d",
+          "accentColor": "#0174b4",
+          "darkAccentColor": "#00456c",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB532730014100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ein Traumhaus an einem der schönsten Strände der Welt finden: Das ist die Mission dieser Makler, die den potentiellen Käufern luxuriöse Immobilien schmackhaft machen. ",
+        "path": "/serien/beach-house-hunters"
+      },
+      {
+        "id": "d_p9cf8izs8l1",
+        "title": "Sizilianischer Haustraum mit Lorraine Bracco",
+        "primaryImage": {
+          "id": "1f31f5de169e3358fe63aa1e5661cd06be49d111",
+          "accentColor": "#0765c6",
+          "darkAccentColor": "#043c76",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB533310001100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Lorraine Bracco folgt ihren italienischen Wurzeln und kehrt nach Sizilien zurück. Dort kauft sie eine heruntergekommene Ruine, die sie in eine wunderschöne Villa verwandeln will.",
+        "path": "/serien/sizilianischer-haustraum-mit-lorraine-bracco"
+      },
+      {
+        "id": "d_pnrz9wzck8w",
+        "title": "Mein Haus am Strand",
+        "primaryImage": {
+          "id": "330ddc937579fcc75e94faaccbe34e66f9c000bf",
+          "accentColor": "#49b6f6",
+          "darkAccentColor": "#2b6d93",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB533270013100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ein erschwingliches Urlaubsdomizil am Meer ist gekauft - jetzt geht es unter Einhaltung des Budgets ans Umgestalten. Dafür lassen die Familien der Fantasie freien Lauf.",
+        "path": "/serien/mein-haus-am-strand"
+      },
+      {
+        "id": "d_p9mebtee0h7",
+        "title": "Organize 'n Style - Isabella räumt auf!",
+        "primaryImage": {
+          "id": "998024c7dfb7c54c8916f7f9dfeeb0a60108ce9a",
+          "accentColor": "#73d5d8",
+          "darkAccentColor": "#457f81",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025699104_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In jeder Wohnung gibt es Problem-Ecken, in denen sich die Unordnung anhäuft. In dieser Serie verwandelt Ordnungs-Coach Isabella Franke Home-Chaos in stylisches Interior.",
+        "path": "/serien/organize-n-style-isabella-raeumt-auf"
+      },
+      {
+        "id": "d_psdfpkl786a",
+        "title": "Body Bizarre - Unglaubliche Schicksale",
+        "primaryImage": {
+          "id": "3387b8e40726fc6dda0f38dd0c9166377888e2c3",
+          "accentColor": "#cba08c",
+          "darkAccentColor": "#796054",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB533260009100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ein Mädchen mit vier Armen oder ein Kind mit extremer Körperbehaarung – es gibt die seltsamsten Krankheitsbilder. Ärzte versuchen mittels moderner Medizin die Leiden zu lindern.",
+        "path": "/serien/body-bizarre-unglaubliche-schicksale"
+      },
+      {
+        "id": "d_p7nwrppufka",
+        "title": "Die Meistergärtner - Deutschlands grüne Oasen",
+        "primaryImage": {
+          "id": "a9234e0580647864669b63e844fad3cb5621bac5",
+          "accentColor": "#d4ce24",
+          "darkAccentColor": "#7f7b15",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB532270008100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Wie wird aus einem einfachen Garten eine Wellness-Oase? Die Meistergärtner gestalten originelle und atemberaubende Gärten und machen aus bizarrem Kundenwunsch blühende Wirklichkeit.",
+        "path": "/serien/die-meistergaertner-deutschlands-gruene-oasen"
+      },
+      {
+        "id": "d_pjm940egtv1",
+        "title": "Naked Survival - Ausgezogen in die Wildnis",
+        "primaryImage": {
+          "id": "571c08044358752d7756fe0a8f555d3f199f0ddb",
+          "accentColor": "#dde72e",
+          "darkAccentColor": "#848a1b",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB536470006100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Was ist schlimmer, als fernab der Zivilisation zu stranden? Wenn man dabei auch noch nackt ist! Dieser Herausforderung müssen sich in dieser Show zwei Fremde für 21 Tage stellen.",
+        "path": "/serien/naked-survival-ausgezogen-in-die-wildnis"
+      },
+      {
+        "id": "d_pgywo3an60c",
+        "title": "Die Garten-Retter",
+        "primaryImage": {
+          "id": "d30dd692ae9f8409a614137441b250efafb1eb1b",
+          "accentColor": "#96b94c",
+          "darkAccentColor": "#5a6f2d",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB527490013100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Überraschung im Baumarkt: Lifestyle-Experte Matt Blashaw macht sich eben dort auf die Suche nach Heimwerkern, die er mit einem ultimativen Garten-Makeover begeistern will.",
+        "path": "/serien/die-garten-retter"
+      },
+      {
+        "id": "d_pjm940oglti",
+        "title": "Alaskan Bush People",
+        "primaryImage": {
+          "id": "c4e434670fcb0f47d993ebf7b0ec9a2db51917e8",
+          "accentColor": "#cbad88",
+          "darkAccentColor": "#796751",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB506060013100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Alaskas raue Wildnis und mittendrin eine Familie mit sieben Kindern: Die Browns leben seit Jahren fernab von jeglicher Zivilisation, ohne Strom, aber im Einklang mit der Natur. ",
+        "path": "/serien/alaskan-bush-people"
+      },
+      {
+        "id": "d_pl1p36juky2",
+        "title": "Achtung Kontrolle! Wir kümmern uns drum",
+        "primaryImage": {
+          "id": "5c1f8e5998db7b241f2496a8cdbd0150f1e57a71",
+          "accentColor": "#26a8df",
+          "darkAccentColor": "#166485",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/ee507cf7fe4e56428728e250be78f1dd_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Von der Polizeikontrolle an der Grenze bis hin zum Einbruch im Supermarkt. Hier zeigen Ordnungshüter ihrer täglichen Arbeit und berichten hautnah von ihren spannendsten Einsätzen.",
+        "path": "/serien/achtung-kontrolle-wir-kuemmern-uns-drum"
+      },
+      {
+        "id": "d_plzw3mudkl8",
+        "title": "Germany's next Topmodel",
+        "primaryImage": {
+          "id": "953ec71d719ecf2498c51cad97bf6af1cf810fc2",
+          "accentColor": "#d35161",
+          "darkAccentColor": "#7e303a",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Germany-s%2Bnext%2BTopmodel/primary-germanys-next-topmodel-by-heidi-klum-st16.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Heidi Klum sucht nach dem schönsten Model Deutschlands. Die jungen Frauen kämpfen um den Titel und einen Modelvertrag. Da sind Konflikte und ganz viel Drama vorprogrammiert.",
+        "path": "/serien/germanys-next-topmodel"
+      },
+      {
+        "id": "d_pw3xdcjxo72",
+        "title": "Navy CIS",
+        "primaryImage": {
+          "id": "62521a5f083b18fe4d10c4cd6e7310b8f5e2cf11",
+          "accentColor": "#3b94b5",
+          "darkAccentColor": "#23586c",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000023287361_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Das Ermittler-Team rund um Special Agent Gibbs untersucht Verbrechen, in welche Mitglieder der Navy oder des Marine Korps verwickelt sind.",
+        "path": "/serien/navy-cis"
+      },
+      {
+        "id": "d_py64sha7pbc",
+        "title": "Navy CIS: L.A.",
+        "primaryImage": {
+          "id": "aa5ec6389ead75519d1facf44d76edb5fd5cc3f6",
+          "accentColor": "#c7853d",
+          "darkAccentColor": "#774f24",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Navy%2BCIS-%2BL.A/primary-Navy-CIS-LA.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Die Agenten der Undercover-Einheit des Navy CIS in Los Angeles setzen immer wieder ihr Leben aufs Spiel, um die nationale Sicherheit zu schützen und Verbrechen aufzuklären.",
+        "path": "/serien/navy-cis-la"
+      },
+      {
+        "id": "d_pxec0bk6xtk",
+        "title": "FBI: Special Crime Unit",
+        "primaryImage": {
+          "id": "4109515313528a77150ae50499ef501ae90fd1e0",
+          "accentColor": "#2f8e8c",
+          "darkAccentColor": "#1c5554",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/8bd6d8f7b1185a00858058d9a4531919_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Die FBI-Agentin Maggie Bell und ihr Partner Omar Adom Zidan verhindern in der Millionenmetropole New York terroristische Anschläge und bekämpfen das organisierte Verbrechen.",
+        "path": "/serien/fbi-special-crime-unit"
+      },
+      {
+        "id": "d_pmlyes78rdg",
+        "title": "Grey's Anatomy",
+        "primaryImage": {
+          "id": "6c9686a745bb580bf5d4da0122dcb10a825ab21c",
+          "accentColor": "#908279",
+          "darkAccentColor": "#564e48",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/27dc59d54d1d5e6db4991f7a8f456970_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Meredith Grey ist mittlerweile auf der Karriereleiter vorangekommen. Doch in ihrem Alltag muss sie neben Arztdasein und großer Liebe auch noch die Kindererziehung stemmen.",
+        "path": "/serien/greys-anatomy-die-jungen-aerzte-dpmlyes78rdg"
+      },
+      {
+        "id": "d_pjm93zys8gs",
+        "title": "Goldrausch in Alaska",
+        "primaryImage": {
+          "id": "470056ea1403d6cf29682332284814bd7ad98f01",
+          "accentColor": "#dc945d",
+          "darkAccentColor": "#845837",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Goldrausch%2Bin%2BAlaska/860x646_dsc_gold_rush_s11_1000x667.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Die Schatzsucher versuchen ihr Glück in Colorado. Dort fahren sie schwere Geschütze in Form eines Schwimmbaggers auf, um ans Ziel zu kommen. Doch die Wildnis hat so ihre Tücken.",
+        "path": "/serien/goldrausch-in-alaska"
+      },
+      {
+        "id": "d_pm01i56ufbs",
+        "title": "Seattle Firefighters",
+        "primaryImage": {
+          "id": "71e0ac6ea3dde93e4ac35fd8d2bf082c5bf4af2b",
+          "accentColor": "#e46423",
+          "darkAccentColor": "#883c15",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Seattle%2BFirefighters%2B-%2BDie%2Bjungen%2BHelden/primary-seattlefirefighters.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Spin-Off-Serie von “Grey’s Anatomy”: Die Feuerwehrmänner und -frauen der Station 19 retten täglich Leben und versuchen die gefährlichen Einsätze mit ihrem Alltag zu vereinen.",
+        "path": "/serien/seattle-firefighters-die-jungen-helden"
+      }
+    ]
+  },
+  {
+    "id": "410:b9cf302d9e8a5da36db6a3dfd69fe054",
+    "headline": "Meistgesehen",
+    "assets": [
+      {
+        "id": "d_pw19kstovdf",
+        "title": "The Voice of Germany",
+        "primaryImage": {
+          "id": "73ff36b1015c3d8f6fe1f878a982ccd19631ca34",
+          "accentColor": "#da0521",
+          "darkAccentColor": "#820313",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/The%2BVoice%2Bof%2BGermany/primary-the-voice-of-germany-st10.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Jubiläum bei der erfolgreichen Musikshow: Bereits zum zehnten Mal treten die Talente gegeneinander an. Auf den roten Jury-Stühlen hat sich einiges getan.",
+        "path": "/serien/the-voice-of-germany"
+      },
+      {
+        "id": "d_ptzm2qh0gts",
+        "title": "Das Internat",
+        "primaryImage": {
+          "id": "076f44b0212931f73fa261562fcdfa8a761c8a06",
+          "accentColor": "#efc535",
+          "darkAccentColor": "#8f761f",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Das%2BInternat/primary-Das-Internat-Teil1.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Neues Drama aus dem Influencer-Internat. Das Beste: Die neuen Folgen gibt es montags, mittwochs und freitags.",
+        "path": "/serien/das-internat"
+      },
+      {
+        "id": "d_po9y9840zl0",
+        "title": "jerks.",
+        "primaryImage": {
+          "id": "904633324c04ffebbdcc2be47eee718e4a1c07ee",
+          "accentColor": "#50b5d2",
+          "darkAccentColor": "#306c7e",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025480048_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Bei Christian und Fahri wird aus jeder noch so banalen Alltagsfrage eine Frage der Moral und Grenzüberschreitung. Sie lügen und lavieren, was sie eint und unzertrennlich macht.",
+        "path": "/serien/jerks"
+      },
+      {
+        "id": "d_pov7iwlccr3",
+        "title": "Steel Buddies - Stahlharte Geschäfte",
+        "primaryImage": {
+          "id": "ac69424a26941ef4d5f2564481c94a936bb9127d",
+          "accentColor": "#c68a76",
+          "darkAccentColor": "#765246",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Steel%2BBuddies%2B-%2BStahlharte%2BGeschaefte/DCB515870010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ausrangierte Armeefahrzeuge sind Michael Manousakis Hobby. Der Motor-Experte sucht weltweit nach alten Militär-Wagen und lässt sie anschließend in neuem Glanz erstrahlen.",
+        "path": "/serien/steel-buddies-stahlharte-geschaefte"
+      },
+      {
+        "id": "d_pkw6hjoi56o",
+        "title": "Das große Backen",
+        "primaryImage": {
+          "id": "a4acda900c32a1617416033f10213b590de34170",
+          "accentColor": "#f3cb17",
+          "darkAccentColor": "#91790d",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Das%2Bgrosse%2BBacken/primaryImage-35058744fb1d05350ea30b02.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In diesem Back-Wettstreit stellen sich zehn Freizeit-Konditoren einem anspruchsvollen Wettbewerb. Wer gewinnt am Ende das Rennen um den Goldenen Cupcake?",
+        "path": "/serien/das-grosse-backen"
+      },
+      {
+        "id": "d_pkw6hk0knle",
+        "title": "Hochzeit auf den ersten Blick",
+        "primaryImage": {
+          "id": "161be4cbe6e83d5b96c11589a9b15c6c1694cc6b",
+          "accentColor": "#b2794c",
+          "darkAccentColor": "#6a482d",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Hochzeit%2Bauf%2Bden%2Bersten%2BBlick/primaryImage-80c656c1002c1fcc6a040462.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Singles vertrauen auf ein wissenschaftliches Matching und treffen das erste Mal auf dem Standesamt aufeinander. Erst dann folgt die Kennenlern-Phase und die Frage: zusammen bleiben oder scheiden lassen?",
+        "path": "/serien/hochzeit-auf-den-ersten-blick"
+      },
+      {
+        "id": "d_pgsppvyhksg",
+        "title": "K11 - Die neuen Fälle",
+        "primaryImage": {
+          "id": "356091081ba75e56d93a7fbbfd34ffa2e642b63a",
+          "accentColor": "#a10c1d",
+          "darkAccentColor": "#600711",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/9b3749fb194f58c0bf9ef0a9f25ee150_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Comeback von zwei Kult-Ermittlern: Alexandra Rietz und Michael Naseband sind wieder im Einsatz und nehmen tagtäglich den Kampf gegen das Verbrechen auf. Zwei neue Kollegen sind auch mit an Bord.",
+        "path": "/serien/k11-die-neuen-faelle"
+      },
+      {
+        "id": "d_pjm940egtv1",
+        "title": "Naked Survival - Ausgezogen in die Wildnis",
+        "primaryImage": {
+          "id": "571c08044358752d7756fe0a8f555d3f199f0ddb",
+          "accentColor": "#dde72e",
+          "darkAccentColor": "#848a1b",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB536470006100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Was ist schlimmer, als fernab der Zivilisation zu stranden? Wenn man dabei auch noch nackt ist! Dieser Herausforderung müssen sich in dieser Show zwei Fremde für 21 Tage stellen.",
+        "path": "/serien/naked-survival-ausgezogen-in-die-wildnis"
+      },
+      {
+        "id": "d_ptvp1o1vpe5",
+        "title": "Nicht erregen",
+        "primaryImage": {
+          "id": "e8e49e7050347508d8dd761ae40cae5e07095608",
+          "accentColor": "#13cd9d",
+          "darkAccentColor": "#0b7b5e",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025981249_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In \"Slavik Junge präsentiert: Nicht Erregen\" geht der Youtube-Star der menschlichen Sexualität auf den Grund. Dabei schreckt er selbst vor den ausgefallensten Vorlieben nicht zurück.\nHier gibt es Alles, was in der Schule nicht unterrichtet wird - und mehr. Natürlich ist Alles rein wissenschaftlich.",
+        "path": "/serien/nicht-erregen"
+      },
+      {
+        "id": "d_prijs9p6m0r",
+        "title": "Krass Klassenfahrt",
+        "primaryImage": {
+          "id": "541bd4ef6c0f3c10f2b8be1a034c1610fb11318d",
+          "accentColor": "#4d78b2",
+          "darkAccentColor": "#2e486a",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025899614_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Für die verrückteste Chaos-Klasse der Welt geht's auf Klassenfahrt: Erste Liebe, erster Sex, unlösbare Teenager-Probleme und natürlich jede Menge Drama!",
+        "path": "/serien/krass-klassenfahrt"
+      },
+      {
+        "id": "d_puo5l4z1o4y",
+        "title": "TV total",
+        "primaryImage": {
+          "id": "937a5e6aaa50a90b6df2b69d53487b337e902471",
+          "accentColor": "#ea2b2f",
+          "darkAccentColor": "#8c191c",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000026018447_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Gutes Fernsehen für alle. \"TV total\" ist zurück - mit Nippelboard und den Heavytones. Gastgeber ist Grimme-Preisträger Sebastian Pufpaff.",
+        "path": "/serien/tv-total"
+      },
+      {
+        "id": "d_pwptap5001q",
+        "title": "Frau Jordan stellt gleich",
+        "primaryImage": {
+          "id": "2bfba8e7ec22bcdc5de7a4cf591e60e6d1bc82b0",
+          "accentColor": "#c76b5b",
+          "darkAccentColor": "#774036",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025272924_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Vom Autor von “Stromberg”: Als Gleichstellungsbeauftragte Eva Jordan zeigt Katrin Bauerfeind nicht nur an der Geschlechterfront vollen Einsatz.",
+        "path": "/serien/frau-jordan-stellt-gleich"
+      },
+      {
+        "id": "d_pn437vt9a9v",
+        "title": "Joko & Klaas gegen ProSieben",
+        "primaryImage": {
+          "id": "ad9fe09918295369c5d9b8ee1d026ea7261a0572",
+          "accentColor": "#d34f3c",
+          "darkAccentColor": "#7e2f24",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Joko%2Bund%2BKlaas%2Bgegen%2BProSieben/primary-joko-und-klaas-gegen-prosieben-st03.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ihr Gegner ist groß, rot und mächtiger denn je: Jetzt fordern Joko und Klaas gemeinsam einen ganzen Sender heraus. Es geht um Ruhm, Ehre und 15 Minuten Sendezeit.",
+        "path": "/serien/joko-klaas-gegen-prosieben"
+      },
+      {
+        "id": "d_pcq2yxyb8cl",
+        "title": "Mask Off",
+        "primaryImage": {
+          "id": "9aa37f52f7937d81a52d2a9b620102f4da6707ca",
+          "accentColor": "#f0b32d",
+          "darkAccentColor": "#906b1b",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000024669696_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Echt oder fake? Wohl kaum einer kann das so gut beurteilen wie Influencer mit ihrer Social-Media-Expertise. Doch erkennen sie auch beispielsweise Ex-Kriminelle oder Sexworker? ",
+        "path": "/serien/mask-off"
+      },
+      {
+        "id": "d_pspk031hd7g",
+        "title": "Alle meine Frauen",
+        "primaryImage": {
+          "id": "7dc4ea243dd56b0909309a26f95a538e96ec8dba",
+          "accentColor": "#ff563f",
+          "darkAccentColor": "#993325",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB532310010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ein Mann, vier Ehefrauen, 18 Kinder: Das klingt verrückt, ist aber Realität bei den Browns. Doku-Serie über das turbulente Leben und den Alltagswahnsinn der Patchwork-Großfamilie.",
+        "path": "/serien/alle-meine-frauen"
+      },
+      {
+        "id": "d_pjm4gmzvaz9",
+        "title": "Mein Leben mit 300 kg",
+        "primaryImage": {
+          "id": "a237a801ec643af73c6576afde154edba6d8cfd3",
+          "accentColor": "#1888a1",
+          "darkAccentColor": "#0e5160",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB539480001100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Wie fühlt es sich an, aufgrund von Körperfülle nicht alleine klarzukommen? Die Doku gibt Einblicke in das Leben übergewichtiger Menschen, die den Kilos den Kampf ansagen wollen.   ",
+        "path": "/serien/mein-leben-mit-300-kg"
+      },
+      {
+        "id": "d_pkzjrc8kx36",
+        "title": "The Taste",
+        "primaryImage": {
+          "id": "d6a62df9bfc38e54c2e75ff3689111d59aec7022",
+          "accentColor": "#0fabd7",
+          "darkAccentColor": "#096681",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025951195_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In diesem Kochwettbewerb zählt nur der Probierlöffel. Denn die Jury bestehend aus Spitzenköchen muss die Gerichte der Kandidaten blind bewerten.",
+        "path": "/serien/the-taste"
+      },
+      {
+        "id": "d_p0yt86wm9iw",
+        "title": "Dating ohne Grenzen: Countdown für die Liebe",
+        "primaryImage": {
+          "id": "c8a9cda39e52675f1719bf00168694e470931cf5",
+          "accentColor": "#c9845f",
+          "darkAccentColor": "#784f39",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/In%2B90%2BTagen%2Bzum%2BAltar-%2BCountdown%2Bfuer%2Bdie%2BLiebe/860x646-dating-ohne-grenzen-countdown-fuer-die-liebe-S03.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Wenn die Online-Romanze zur großen Liebe wird: Was passiert, wenn man nach dem Online Dating rund um den Globus reist und den Partner endlich kennenlernt. Kann das funktionieren?",
+        "path": "/serien/dating-ohne-grenzen-countdown-fuer-die-liebe"
+      },
+      {
+        "id": "d_pjm940hs0wq",
+        "title": "Der Geiger - Boss Of Big Blocks",
+        "primaryImage": {
+          "id": "6d4e0fd16cbbc8ea3b394ddab2546fc83fb471b6",
+          "accentColor": "#c3896d",
+          "darkAccentColor": "#755241",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB537660012100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Von Chevy über Chrysler bis zur legendären Viper: US-Car-Spezialist Karl Geiger verwandelt einfache Autos von der Stange in außergewöhnliche Unikate.",
+        "path": "/serien/der-geiger-boss-of-big-blocks"
+      },
+      {
+        "id": "d_p88sgtz8ghy",
+        "title": "Mein Lokal, Dein Lokal - Der Profi kommt",
+        "primaryImage": {
+          "id": "d269527b1a7e2372dcbcb30657cce822ee21f12d",
+          "accentColor": "#e46947",
+          "darkAccentColor": "#883f2a",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/9a66f1e5acc3552eada1a6a30a7ddc4c_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Pro Woche treten fünf Restaurantchefs aus einer Stadt gegeneinander an.",
+        "path": "/serien/mein-lokal-dein-lokal-der-profi-kommt"
+      }
+    ]
+  },
+  {
+    "id": "410:1f8556fd638ed8f31c10ecbb1e76c171",
+    "headline": "Highlights auf Joyn",
+    "assets": [
+      {
+        "id": "d_ptzm2qh0gts",
+        "title": "Das Internat",
+        "primaryImage": {
+          "id": "076f44b0212931f73fa261562fcdfa8a761c8a06",
+          "accentColor": "#efc535",
+          "darkAccentColor": "#8f761f",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Das%2BInternat/primary-Das-Internat-Teil1.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Neues Drama aus dem Influencer-Internat. Das Beste: Die neuen Folgen gibt es montags, mittwochs und freitags.",
+        "path": "/serien/das-internat"
+      },
+      {
+        "id": "d_pmlyes78rdg",
+        "title": "Grey's Anatomy",
+        "primaryImage": {
+          "id": "6c9686a745bb580bf5d4da0122dcb10a825ab21c",
+          "accentColor": "#908279",
+          "darkAccentColor": "#564e48",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/27dc59d54d1d5e6db4991f7a8f456970_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Meredith Grey ist mittlerweile auf der Karriereleiter vorangekommen. Doch in ihrem Alltag muss sie neben Arztdasein und großer Liebe auch noch die Kindererziehung stemmen.",
+        "path": "/serien/greys-anatomy-die-jungen-aerzte-dpmlyes78rdg"
+      },
+      {
+        "id": "d_prijs9p6m0r",
+        "title": "Krass Klassenfahrt",
+        "primaryImage": {
+          "id": "541bd4ef6c0f3c10f2b8be1a034c1610fb11318d",
+          "accentColor": "#4d78b2",
+          "darkAccentColor": "#2e486a",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025899614_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Für die verrückteste Chaos-Klasse der Welt geht's auf Klassenfahrt: Erste Liebe, erster Sex, unlösbare Teenager-Probleme und natürlich jede Menge Drama!",
+        "path": "/serien/krass-klassenfahrt"
+      },
+      {
+        "id": "d_pftkrbelkns",
+        "title": "Achtung Aaron",
+        "primaryImage": {
+          "id": "592ddd732fbb0ee918be8f70534ca92a5fe7baa1",
+          "accentColor": "#d79b6d",
+          "darkAccentColor": "#815d41",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025764819_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Aaron Troschke nimmt dich mit in sein Jugendzimmer und schaut auf das, was aktuell im Trend liegt. Neue Folgen immer donnerstags und samstags.",
+        "path": "/serien/achtung-aaron"
+      },
+      {
+        "id": "d_p28sdbz5uhd",
+        "title": "Slavik - Auf Staats Nacken",
+        "primaryImage": {
+          "id": "e4142fe415949cadc5ff600987255fdf6be4eaf0",
+          "accentColor": "#cb4027",
+          "darkAccentColor": "#792617",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000024273783_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Sieger des Deutschen Comedypreises 2020: Social Media Star Slavik Junge hat aber noch nicht genug. Als nächstes will er das Bundesverdienstkreuz. Dafür muss er ja nur die Arbeitslosenquote senken.",
+        "path": "/serien/slavik-auf-staats-nacken"
+      },
+      {
+        "id": "d_pcq2yxyb8cl",
+        "title": "Mask Off",
+        "primaryImage": {
+          "id": "9aa37f52f7937d81a52d2a9b620102f4da6707ca",
+          "accentColor": "#f0b32d",
+          "darkAccentColor": "#906b1b",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000024669696_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Echt oder fake? Wohl kaum einer kann das so gut beurteilen wie Influencer mit ihrer Social-Media-Expertise. Doch erkennen sie auch beispielsweise Ex-Kriminelle oder Sexworker? ",
+        "path": "/serien/mask-off"
+      },
+      {
+        "id": "d_p1e95j3ghyi",
+        "title": "JENKE. CRIME.",
+        "primaryImage": {
+          "id": "946a8a289d45b2b416a8e4fc027e02f2db1a2798",
+          "accentColor": "#c49281",
+          "darkAccentColor": "#75574d",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025751672_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Was treibt einen jungen Mann dazu, statt Maschinenbauer Drogenboss zu werden? Wie funktioniert der internationale Drogenhandel abseits von verklärter Hollywoodfilm-Romantik? Was geht im Kopf eines mehrfach verurteilten Straftäters vor? Jenke von Wilmsdorff fragt nach und konfrontiert in \"JENKE. CRIME.\" Verbrecher mit ihren Opfern und den Schauplätzen ihrer kriminellen Vergehen.",
+        "path": "/serien/jenke-crime"
+      },
+      {
+        "id": "b_p78cschqt12",
+        "title": "Lena Gercke - It's about you",
+        "primaryImage": {
+          "id": "18aed662b89c84566a3ba8b4c636eec19a890aeb",
+          "accentColor": "#8d5d40",
+          "darkAccentColor": "#543726",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025663603_movie_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Eigentlich wollten wir die Entstehung einer Kollektion begleiten. Doch dann wurde Lena Gercke schwanger und es kam Corona. Also filmt Lenas Freund Dustin und wir erleben Lena persönlicher als je zuvor.",
+        "path": "/filme/lena-gercke-its-about-you"
+      },
+      {
+        "id": "d_pjm93zys8gs",
+        "title": "Goldrausch in Alaska",
+        "primaryImage": {
+          "id": "470056ea1403d6cf29682332284814bd7ad98f01",
+          "accentColor": "#dc945d",
+          "darkAccentColor": "#845837",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Goldrausch%2Bin%2BAlaska/860x646_dsc_gold_rush_s11_1000x667.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Die Schatzsucher versuchen ihr Glück in Colorado. Dort fahren sie schwere Geschütze in Form eines Schwimmbaggers auf, um ans Ziel zu kommen. Doch die Wildnis hat so ihre Tücken.",
+        "path": "/serien/goldrausch-in-alaska"
+      },
+      {
+        "id": "d_pov7iwlccr3",
+        "title": "Steel Buddies - Stahlharte Geschäfte",
+        "primaryImage": {
+          "id": "ac69424a26941ef4d5f2564481c94a936bb9127d",
+          "accentColor": "#c68a76",
+          "darkAccentColor": "#765246",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Steel%2BBuddies%2B-%2BStahlharte%2BGeschaefte/DCB515870010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ausrangierte Armeefahrzeuge sind Michael Manousakis Hobby. Der Motor-Experte sucht weltweit nach alten Militär-Wagen und lässt sie anschließend in neuem Glanz erstrahlen.",
+        "path": "/serien/steel-buddies-stahlharte-geschaefte"
+      },
+      {
+        "id": "d_pjm4gmzvaz9",
+        "title": "Mein Leben mit 300 kg",
+        "primaryImage": {
+          "id": "a237a801ec643af73c6576afde154edba6d8cfd3",
+          "accentColor": "#1888a1",
+          "darkAccentColor": "#0e5160",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB539480001100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Wie fühlt es sich an, aufgrund von Körperfülle nicht alleine klarzukommen? Die Doku gibt Einblicke in das Leben übergewichtiger Menschen, die den Kilos den Kampf ansagen wollen.   ",
+        "path": "/serien/mein-leben-mit-300-kg"
+      },
+      {
+        "id": "d_pjm940egtv1",
+        "title": "Naked Survival - Ausgezogen in die Wildnis",
+        "primaryImage": {
+          "id": "571c08044358752d7756fe0a8f555d3f199f0ddb",
+          "accentColor": "#dde72e",
+          "darkAccentColor": "#848a1b",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB536470006100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Was ist schlimmer, als fernab der Zivilisation zu stranden? Wenn man dabei auch noch nackt ist! Dieser Herausforderung müssen sich in dieser Show zwei Fremde für 21 Tage stellen.",
+        "path": "/serien/naked-survival-ausgezogen-in-die-wildnis"
+      },
+      {
+        "id": "d_p141tv5fo4w",
+        "title": "Claudias House of Love",
+        "primaryImage": {
+          "id": "6721d27dd752f35d830e7b7e139704e21ed7efe5",
+          "accentColor": "#ec333e",
+          "darkAccentColor": "#8d1e25",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025420018_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Claudia Obert zieht mit zehn Männern in das \"House of Love\" ein. Dort versucht sie mithilfe verschiedener Love-Challenges und anderer Impulse ihren Traummann zu finden.",
+        "path": "/serien/claudias-house-of-love"
+      },
+      {
+        "id": "d_pm01i56ufbs",
+        "title": "Seattle Firefighters",
+        "primaryImage": {
+          "id": "71e0ac6ea3dde93e4ac35fd8d2bf082c5bf4af2b",
+          "accentColor": "#e46423",
+          "darkAccentColor": "#883c15",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Seattle%2BFirefighters%2B-%2BDie%2Bjungen%2BHelden/primary-seattlefirefighters.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Spin-Off-Serie von “Grey’s Anatomy”: Die Feuerwehrmänner und -frauen der Station 19 retten täglich Leben und versuchen die gefährlichen Einsätze mit ihrem Alltag zu vereinen.",
+        "path": "/serien/seattle-firefighters-die-jungen-helden"
+      },
+      {
+        "id": "d_psdfpkl786a",
+        "title": "Body Bizarre - Unglaubliche Schicksale",
+        "primaryImage": {
+          "id": "3387b8e40726fc6dda0f38dd0c9166377888e2c3",
+          "accentColor": "#cba08c",
+          "darkAccentColor": "#796054",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB533260009100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ein Mädchen mit vier Armen oder ein Kind mit extremer Körperbehaarung – es gibt die seltsamsten Krankheitsbilder. Ärzte versuchen mittels moderner Medizin die Leiden zu lindern.",
+        "path": "/serien/body-bizarre-unglaubliche-schicksale"
+      },
+      {
+        "id": "d_pjm4gmyor2v",
+        "title": "Dr. Pimple Popper",
+        "primaryImage": {
+          "id": "9277de163bce555df2572d87a4e1662520f7ea50",
+          "accentColor": "#17ccf7",
+          "darkAccentColor": "#0d7a94",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Dr.%2BPimple%2BPopper/4-3-image-dr-pimple-popper.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Bei ungewöhnlichen Hautkrankheiten legen nur wenige Ärzte Hand an. Dr. Sandra Lee ist eine der bekanntesten Dermatologen der USA und hilft auch den schwersten Fällen.",
+        "path": "/serien/dr-pimple-popper"
+      },
+      {
+        "id": "d_ptvp1o1vpe5",
+        "title": "Nicht erregen",
+        "primaryImage": {
+          "id": "e8e49e7050347508d8dd761ae40cae5e07095608",
+          "accentColor": "#13cd9d",
+          "darkAccentColor": "#0b7b5e",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025981249_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In \"Slavik Junge präsentiert: Nicht Erregen\" geht der Youtube-Star der menschlichen Sexualität auf den Grund. Dabei schreckt er selbst vor den ausgefallensten Vorlieben nicht zurück.\nHier gibt es Alles, was in der Schule nicht unterrichtet wird - und mehr. Natürlich ist Alles rein wissenschaftlich.",
+        "path": "/serien/nicht-erregen"
+      }
+    ]
+  },
+  {
+    "id": "410:5dabf321e8a006fb88899a174b8d9b40",
+    "headline": "Erste Folge kostenlos",
+    "assets": []
+  },
+  {
+    "id": "410:d470c3de9e87d2ce64ea076a92817453",
+    "headline": "Highlights bei PLUS+",
+    "assets": [
+      {
+        "id": "d_p1am65iz1ap",
+        "title": "The 100",
+        "primaryImage": {
+          "id": "5322b059f5181c4c6089b721cace79737416f8d7",
+          "accentColor": "#65b156",
+          "darkAccentColor": "#3c6a33",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025493015_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Auf der Raumstation Ark wird die Luft knapp. 97 Jahre nach dem Atomkrieg auf der Erde werden daher 100 jugendliche Straftäter als Kundschafter zurück auf die Oberfläche geschickt.",
+        "path": "/serien/the-100"
+      },
+      {
+        "id": "d_po9y9840zl0",
+        "title": "jerks.",
+        "primaryImage": {
+          "id": "904633324c04ffebbdcc2be47eee718e4a1c07ee",
+          "accentColor": "#50b5d2",
+          "darkAccentColor": "#306c7e",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025480048_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Bei Christian und Fahri wird aus jeder noch so banalen Alltagsfrage eine Frage der Moral und Grenzüberschreitung. Sie lügen und lavieren, was sie eint und unzertrennlich macht.",
+        "path": "/serien/jerks"
+      },
+      {
+        "id": "d_pjidrr69q00",
+        "title": "Fargo",
+        "primaryImage": {
+          "id": "72459615884da2cd1f9c1e116e597d102cfff0df",
+          "accentColor": "#bfaf2f",
+          "darkAccentColor": "#72691c",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025322484_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Versicherungsvertreter Lester bittet im Scherz den Fremden Lorne Malvo, seinen High School-Erzfeind zu töten. Dummerweise ist Malvo ein Auftragskiller und nimmt die Sache todernst.",
+        "path": "/serien/fargo"
+      },
+      {
+        "id": "b_p28myra1eo4",
+        "title": "Die Tribute von Panem - The Hunger Games",
+        "primaryImage": {
+          "id": "89805d71faf1a9be4dd95331c2cabbc3dfb89b10",
+          "accentColor": "#eaab26",
+          "darkAccentColor": "#8c6616",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Movies/Die%2BTribute%2Bvon%2BPanem%2B-%2BThe%2BHunger%2BGames/primary-tribute-von-panem-the-hunger-games-2162297.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In Panem finden alljährlich grausame Spiele statt, bei denen nur ein Einziger überleben darf. Als Katniss kleine Schwester dafür ausgewählt wird, meldet sie sich freiwillig.",
+        "path": "/filme/die-tribute-von-panem-the-hunger-games"
+      },
+      {
+        "id": "b_p6q7z4mvc4h",
+        "title": "Fack Ju Göhte 3",
+        "primaryImage": {
+          "id": "a6f6aec3bb8da4c233d2671bdbcd606b1ea5c173",
+          "accentColor": "#2498dd",
+          "darkAccentColor": "#155b84",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000021723182_movie_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Der coolste Lehrer aller Zeiten, Zeki Müller will seine Problemschüler zum Abitur peitschen. Doch die Chaosklasse ist wenig kooperativ, was sich in maximaler Eskalation äußert.",
+        "path": "/filme/fack-ju-goehte-3"
+      },
+      {
+        "id": "d_p14r0vwt4aw",
+        "title": "Mysterious Mermaids",
+        "primaryImage": {
+          "id": "6e0003e286e4717e8d238d64aea4bdbbd8216e68",
+          "accentColor": "#438d99",
+          "darkAccentColor": "#28545b",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/7f630410a97551f183c0c9a4ae3f045f_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In Bristol Cove sollen angeblich Meerjungfrauen gelebt haben. Als die geheimnisvolle Ryn auf einmal in der Küstenstadt auftaucht, bekommen die alten Sagen eine neue Bedeutung.",
+        "path": "/serien/mysterious-mermaids-dp14r0vwt4aw"
+      },
+      {
+        "id": "d_p20ag559w0e",
+        "title": "Mocro Maffia",
+        "primaryImage": {
+          "id": "6844140dd1acdf65b79c89754526194d9691e55c",
+          "accentColor": "#8a736e",
+          "darkAccentColor": "#524542",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Mocro%2BMaffia/primary-Mocro-Mafia.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Der Journalist Rein ist Zeuge, wie drei ehemals befreundete Drogendealer das organisierte Verbrechen in Amsterdam übernehmen. Das führt zu einem gnadenlosen Bandenkrieg.",
+        "path": "/serien/mocro-maffia"
+      },
+      {
+        "id": "d_p2i3eugdcy8",
+        "title": "Doctor Who",
+        "primaryImage": {
+          "id": "1f555f6392812fd5eb409ee39b45217e95c13a73",
+          "accentColor": "#1d9ac6",
+          "darkAccentColor": "#115c76",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Doctor%2BWho/primary-dr-who-s11.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Mit seinem Raumschiff in Form einer Telefonbox reist der Doktor durch die Zeit. Dabei nimmt er immer wieder verschiedene Begleiter auf seine Abenteuer mit.",
+        "path": "/serien/doctor-who"
+      },
+      {
+        "id": "d_pzcycqh5g39",
+        "title": "Parks and Recreation",
+        "primaryImage": {
+          "id": "1d647e1c1cae32926256252beb3279a0d7f251d4",
+          "accentColor": "#ddbf13",
+          "darkAccentColor": "#84720b",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000021292214_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Leslie Knope ist Leiterin der Grünanlagenbehörde von Pawnee und versucht, die Stadt durch Parks aufzuhübschen. Dabei kämpft sie mit sturen Bürokraten und schrägen Kollegen.",
+        "path": "/serien/parks-and-recreation"
+      },
+      {
+        "id": "d_p6ez8vpuq68",
+        "title": "Katakomben",
+        "primaryImage": {
+          "id": "c24a38d39b5b0a1513a0b2dc6156e71a5258a51c",
+          "accentColor": "#0ae2eb",
+          "darkAccentColor": "#06878d",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025657645_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Eine Gruppe Münchner Rich Kids feiert einen illegalen Rave in den Katakomben unter dem Hauptbahnhof. Dort treffen sie auf die Unsichtbaren: Menschen, die vom System verdrängt wurden. ",
+        "path": "/serien/katakomben"
+      },
+      {
+        "id": "d_pz910any5qe",
+        "title": "Check Check",
+        "primaryImage": {
+          "id": "8f5bf54e1246ee711d16080ea255f8ad28386710",
+          "accentColor": "#384256",
+          "darkAccentColor": "#212733",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Check%2BCheck/primary-checkcheck%2B%25281%2529.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Klaas ist Jan: Als sein Vater an Demenz erkrankt, ändert sich sein Leben. Auf einem Provinzflughafen arbeitet Jan fortan an der Sicherheitsschleuse.",
+        "path": "/serien/check-check"
+      },
+      {
+        "id": "d_p141tv5fo4w",
+        "title": "Claudias House of Love",
+        "primaryImage": {
+          "id": "6721d27dd752f35d830e7b7e139704e21ed7efe5",
+          "accentColor": "#ec333e",
+          "darkAccentColor": "#8d1e25",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025420018_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Claudia Obert zieht mit zehn Männern in das \"House of Love\" ein. Dort versucht sie mithilfe verschiedener Love-Challenges und anderer Impulse ihren Traummann zu finden.",
+        "path": "/serien/claudias-house-of-love"
+      },
+      {
+        "id": "d_p1bb983fqwn",
+        "title": "The Royals",
+        "primaryImage": {
+          "id": "d174e9013783ec5ffbfe97ae7e6894f557770d89",
+          "accentColor": "#ee0101",
+          "darkAccentColor": "#8e0000",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/The%2BRoyals/primary-the-royals-12969314.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Sex, Drugs und jede Menge Intrigen: Queen Helena muss nicht nur den Tod ihres ältesten Sohns und Thronfolgers verkraften, sondern sich auch um die königliche Chaosfamilie kümmern - ohne Schlagzeilen, versteht sich.",
+        "path": "/serien/the-royals"
+      },
+      {
+        "id": "b_p28na76k39u",
+        "title": "Die Tribute von Panem - Catching Fire",
+        "primaryImage": {
+          "id": "203cdac0470c513c0c1e653982be25ce1009fe0b",
+          "accentColor": "#e86028",
+          "darkAccentColor": "#8b3918",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Movies/Die%2BTribute%2Bvon%2BPanem%2B-%2BCatching%2BFire/primary-catching-fire.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Nachdem Katniss und Peeta die Arena der 74. Hungerspiele als Sieger verlassen haben, denkt sich das Kapitol eine List aus und sie müssen in die Arena zurückkehren.",
+        "path": "/filme/die-tribute-von-panem-catching-fire"
+      },
+      {
+        "id": "d_pwptap5001q",
+        "title": "Frau Jordan stellt gleich",
+        "primaryImage": {
+          "id": "2bfba8e7ec22bcdc5de7a4cf591e60e6d1bc82b0",
+          "accentColor": "#c76b5b",
+          "darkAccentColor": "#774036",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025272924_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Vom Autor von “Stromberg”: Als Gleichstellungsbeauftragte Eva Jordan zeigt Katrin Bauerfeind nicht nur an der Geschlechterfront vollen Einsatz.",
+        "path": "/serien/frau-jordan-stellt-gleich"
+      },
+      {
+        "id": "d_p3y41tq9ehy",
+        "title": "Eine wie Alaska",
+        "primaryImage": {
+          "id": "6397f484cd8a1e9b59cae506445806fafb354805",
+          "accentColor": "#bb6519",
+          "darkAccentColor": "#703c0f",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000024029048_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Der schüchterne 16-jährige Miles aus Florida lernt in einem Internat im ländlichen Alabama die reizende Alaska Young kennen. Doch eine Tragödie zerstört schon bald die Idylle.",
+        "path": "/serien/eine-wie-alaska"
+      }
+    ]
+  },
+  {
+    "id": "410:ab15e26fd0a7fe651355908d42a5638a",
+    "headline": "Neu auf Joyn",
+    "assets": [
+      {
+        "id": "b_pt1e7m4p46p",
+        "title": "Steven Seagal - Today You Die",
+        "primaryImage": {
+          "id": "6dc116cd7c0771dd799b93f4904c391238092c70",
+          "accentColor": "#f8cc11",
+          "darkAccentColor": "#947a0a",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025788201_movie_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Martial-Arts-Legende Steven Seagal lässt es wieder krachen: Als Gangster Harlen Banks steht er kurz davor, seine kriminelle Karriere zu beenden. Doch dann stellt ihm sein Auftraggeber eine Falle, reißt sich die Millionenbeute des letzten Coups unter den Nagel und sorgt auch noch dafür, dass Banks im Gefängnis landet. Das kann der knallharte Kämpfer mit dem weichen Kern natürlich nicht auf sich sitzen lassen! Bildrechte: Nu Image.",
+        "path": "/filme/steven-seagal-today-you-die"
+      },
+      {
+        "id": "d_pq77vr72dep",
+        "title": "Overhaulin' - Aufgemotzt und Abgefahrn",
+        "primaryImage": {
+          "id": "98f6606e15b014668794b365d5d0e7f867c4efcd",
+          "accentColor": "#e4231b",
+          "darkAccentColor": "#881510",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB528930012100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Autoklau für einen guten Zweck: Die Kfz-Profis rund um Chip Foose \"entführen\" die betagten Blechkutschen ahnungsloser Besitzer*innen und verpassen ihnen eine Generalüberholung. ",
+        "path": "/serien/overhaulin-aufgemotzt-und-abgefahrn"
+      },
+      {
+        "id": "b_psg3y3whj4w",
+        "title": "Ballon",
+        "primaryImage": {
+          "id": "744a1c13d0182a505a15b4e3e0f0122ca75741e3",
+          "accentColor": "#eeb03b",
+          "darkAccentColor": "#8e6923",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025255226_movie_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Im Sommer 1979 fliehen zwei deutsche Familien in einem Heißluftballon aus der DDR. Als dieser abstürzt, müssen sie einen Ersatz bauen, bevor die Stasi ihnen auf die Schliche kommt. ",
+        "path": "/filme/ballon"
+      },
+      {
+        "id": "d_p0ch82xg889",
+        "title": "Vintage Voltage - Vom Oldtimer zum E-Auto",
+        "primaryImage": {
+          "id": "792d9c483701a3cc992c05a336359ad4299a759f",
+          "accentColor": "#d64e39",
+          "darkAccentColor": "#802e22",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB533120010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Schicke Oldtimer stehen bei Auto-Fans hoch im Kurs, sind allerdings nicht sehr umweltfreundlich. Deshalb rüsten Richard und sein Team sie zu Elektrofahrzeugen um.",
+        "path": "/serien/vintage-voltage-vom-oldtimer-zum-e-auto"
+      },
+      {
+        "id": "d_p0h12936ojo",
+        "title": "Rolling - Das Quiz mit der Münze",
+        "primaryImage": {
+          "id": "d132101c3b0a613dae25ed6e66cef2d1be84508f",
+          "accentColor": "#f9a512",
+          "darkAccentColor": "#95630a",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025762386_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Wer rollt sich reich? In dieser Quiz-Show spielen Kandidat*innen um den Jackpot und balancieren dabei stets zwischen Glück und Quiz. ",
+        "path": "/serien/rolling-das-quiz-mit-der-muenze"
+      },
+      {
+        "id": "d_p9cf8izs8l1",
+        "title": "Sizilianischer Haustraum mit Lorraine Bracco",
+        "primaryImage": {
+          "id": "1f31f5de169e3358fe63aa1e5661cd06be49d111",
+          "accentColor": "#0765c6",
+          "darkAccentColor": "#043c76",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB533310001100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Lorraine Bracco folgt ihren italienischen Wurzeln und kehrt nach Sizilien zurück. Dort kauft sie eine heruntergekommene Ruine, die sie in eine wunderschöne Villa verwandeln will.",
+        "path": "/serien/sizilianischer-haustraum-mit-lorraine-bracco"
+      },
+      {
+        "id": "d_pftkrbelkns",
+        "title": "Achtung Aaron",
+        "primaryImage": {
+          "id": "592ddd732fbb0ee918be8f70534ca92a5fe7baa1",
+          "accentColor": "#d79b6d",
+          "darkAccentColor": "#815d41",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025764819_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Aaron Troschke nimmt dich mit in sein Jugendzimmer und schaut auf das, was aktuell im Trend liegt. Neue Folgen immer donnerstags und samstags.",
+        "path": "/serien/achtung-aaron"
+      },
+      {
+        "id": "d_p1e95j3ghyi",
+        "title": "JENKE. CRIME.",
+        "primaryImage": {
+          "id": "946a8a289d45b2b416a8e4fc027e02f2db1a2798",
+          "accentColor": "#c49281",
+          "darkAccentColor": "#75574d",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025751672_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Was treibt einen jungen Mann dazu, statt Maschinenbauer Drogenboss zu werden? Wie funktioniert der internationale Drogenhandel abseits von verklärter Hollywoodfilm-Romantik? Was geht im Kopf eines mehrfach verurteilten Straftäters vor? Jenke von Wilmsdorff fragt nach und konfrontiert in \"JENKE. CRIME.\" Verbrecher mit ihren Opfern und den Schauplätzen ihrer kriminellen Vergehen.",
+        "path": "/serien/jenke-crime"
+      },
+      {
+        "id": "d_pw6s85w1izw",
+        "title": "Young Sheldon",
+        "primaryImage": {
+          "id": "08e1685be5c88a25bc6f4d47535a8ff369b68243",
+          "accentColor": "#d2a688",
+          "darkAccentColor": "#7e6351",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/06c6ee0fba6d5237ac5eb97b3ac8cd71_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Schon als Neunjähriger war \"Big Bang Theory\"-Nerd Sheldon Cooper ein Genie. Als Knirps an der High School bringt er mit seiner altklugen Art sämtliche Mitmenschen zur Weißglut.",
+        "path": "/serien/young-sheldon"
+      }
+    ]
+  },
+  {
+    "id": "410:4edeb466b561f05b4a20697a4c6cc69e",
+    "headline": "Meistgesehen",
+    "assets": [
+      {
+        "id": "d_pw19kstovdf",
+        "title": "The Voice of Germany",
+        "primaryImage": {
+          "id": "73ff36b1015c3d8f6fe1f878a982ccd19631ca34",
+          "accentColor": "#da0521",
+          "darkAccentColor": "#820313",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/The%2BVoice%2Bof%2BGermany/primary-the-voice-of-germany-st10.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Jubiläum bei der erfolgreichen Musikshow: Bereits zum zehnten Mal treten die Talente gegeneinander an. Auf den roten Jury-Stühlen hat sich einiges getan.",
+        "path": "/serien/the-voice-of-germany"
+      },
+      {
+        "id": "d_ptzm2qh0gts",
+        "title": "Das Internat",
+        "primaryImage": {
+          "id": "076f44b0212931f73fa261562fcdfa8a761c8a06",
+          "accentColor": "#efc535",
+          "darkAccentColor": "#8f761f",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Das%2BInternat/primary-Das-Internat-Teil1.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Neues Drama aus dem Influencer-Internat. Das Beste: Die neuen Folgen gibt es montags, mittwochs und freitags.",
+        "path": "/serien/das-internat"
+      },
+      {
+        "id": "d_po9y9840zl0",
+        "title": "jerks.",
+        "primaryImage": {
+          "id": "904633324c04ffebbdcc2be47eee718e4a1c07ee",
+          "accentColor": "#50b5d2",
+          "darkAccentColor": "#306c7e",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025480048_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Bei Christian und Fahri wird aus jeder noch so banalen Alltagsfrage eine Frage der Moral und Grenzüberschreitung. Sie lügen und lavieren, was sie eint und unzertrennlich macht.",
+        "path": "/serien/jerks"
+      },
+      {
+        "id": "d_pov7iwlccr3",
+        "title": "Steel Buddies - Stahlharte Geschäfte",
+        "primaryImage": {
+          "id": "ac69424a26941ef4d5f2564481c94a936bb9127d",
+          "accentColor": "#c68a76",
+          "darkAccentColor": "#765246",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Steel%2BBuddies%2B-%2BStahlharte%2BGeschaefte/DCB515870010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ausrangierte Armeefahrzeuge sind Michael Manousakis Hobby. Der Motor-Experte sucht weltweit nach alten Militär-Wagen und lässt sie anschließend in neuem Glanz erstrahlen.",
+        "path": "/serien/steel-buddies-stahlharte-geschaefte"
+      },
+      {
+        "id": "d_pkw6hjoi56o",
+        "title": "Das große Backen",
+        "primaryImage": {
+          "id": "a4acda900c32a1617416033f10213b590de34170",
+          "accentColor": "#f3cb17",
+          "darkAccentColor": "#91790d",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Das%2Bgrosse%2BBacken/primaryImage-35058744fb1d05350ea30b02.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In diesem Back-Wettstreit stellen sich zehn Freizeit-Konditoren einem anspruchsvollen Wettbewerb. Wer gewinnt am Ende das Rennen um den Goldenen Cupcake?",
+        "path": "/serien/das-grosse-backen"
+      },
+      {
+        "id": "d_pkw6hk0knle",
+        "title": "Hochzeit auf den ersten Blick",
+        "primaryImage": {
+          "id": "161be4cbe6e83d5b96c11589a9b15c6c1694cc6b",
+          "accentColor": "#b2794c",
+          "darkAccentColor": "#6a482d",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Hochzeit%2Bauf%2Bden%2Bersten%2BBlick/primaryImage-80c656c1002c1fcc6a040462.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Singles vertrauen auf ein wissenschaftliches Matching und treffen das erste Mal auf dem Standesamt aufeinander. Erst dann folgt die Kennenlern-Phase und die Frage: zusammen bleiben oder scheiden lassen?",
+        "path": "/serien/hochzeit-auf-den-ersten-blick"
+      },
+      {
+        "id": "d_pgsppvyhksg",
+        "title": "K11 - Die neuen Fälle",
+        "primaryImage": {
+          "id": "356091081ba75e56d93a7fbbfd34ffa2e642b63a",
+          "accentColor": "#a10c1d",
+          "darkAccentColor": "#600711",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/9b3749fb194f58c0bf9ef0a9f25ee150_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Comeback von zwei Kult-Ermittlern: Alexandra Rietz und Michael Naseband sind wieder im Einsatz und nehmen tagtäglich den Kampf gegen das Verbrechen auf. Zwei neue Kollegen sind auch mit an Bord.",
+        "path": "/serien/k11-die-neuen-faelle"
+      },
+      {
+        "id": "d_pjm940egtv1",
+        "title": "Naked Survival - Ausgezogen in die Wildnis",
+        "primaryImage": {
+          "id": "571c08044358752d7756fe0a8f555d3f199f0ddb",
+          "accentColor": "#dde72e",
+          "darkAccentColor": "#848a1b",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB536470006100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Was ist schlimmer, als fernab der Zivilisation zu stranden? Wenn man dabei auch noch nackt ist! Dieser Herausforderung müssen sich in dieser Show zwei Fremde für 21 Tage stellen.",
+        "path": "/serien/naked-survival-ausgezogen-in-die-wildnis"
+      },
+      {
+        "id": "d_ptvp1o1vpe5",
+        "title": "Nicht erregen",
+        "primaryImage": {
+          "id": "e8e49e7050347508d8dd761ae40cae5e07095608",
+          "accentColor": "#13cd9d",
+          "darkAccentColor": "#0b7b5e",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025981249_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In \"Slavik Junge präsentiert: Nicht Erregen\" geht der Youtube-Star der menschlichen Sexualität auf den Grund. Dabei schreckt er selbst vor den ausgefallensten Vorlieben nicht zurück.\nHier gibt es Alles, was in der Schule nicht unterrichtet wird - und mehr. Natürlich ist Alles rein wissenschaftlich.",
+        "path": "/serien/nicht-erregen"
+      },
+      {
+        "id": "d_prijs9p6m0r",
+        "title": "Krass Klassenfahrt",
+        "primaryImage": {
+          "id": "541bd4ef6c0f3c10f2b8be1a034c1610fb11318d",
+          "accentColor": "#4d78b2",
+          "darkAccentColor": "#2e486a",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025899614_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Für die verrückteste Chaos-Klasse der Welt geht's auf Klassenfahrt: Erste Liebe, erster Sex, unlösbare Teenager-Probleme und natürlich jede Menge Drama!",
+        "path": "/serien/krass-klassenfahrt"
+      },
+      {
+        "id": "d_puo5l4z1o4y",
+        "title": "TV total",
+        "primaryImage": {
+          "id": "937a5e6aaa50a90b6df2b69d53487b337e902471",
+          "accentColor": "#ea2b2f",
+          "darkAccentColor": "#8c191c",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000026018447_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Gutes Fernsehen für alle. \"TV total\" ist zurück - mit Nippelboard und den Heavytones. Gastgeber ist Grimme-Preisträger Sebastian Pufpaff.",
+        "path": "/serien/tv-total"
+      },
+      {
+        "id": "d_pwptap5001q",
+        "title": "Frau Jordan stellt gleich",
+        "primaryImage": {
+          "id": "2bfba8e7ec22bcdc5de7a4cf591e60e6d1bc82b0",
+          "accentColor": "#c76b5b",
+          "darkAccentColor": "#774036",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025272924_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Vom Autor von “Stromberg”: Als Gleichstellungsbeauftragte Eva Jordan zeigt Katrin Bauerfeind nicht nur an der Geschlechterfront vollen Einsatz.",
+        "path": "/serien/frau-jordan-stellt-gleich"
+      },
+      {
+        "id": "d_pn437vt9a9v",
+        "title": "Joko & Klaas gegen ProSieben",
+        "primaryImage": {
+          "id": "ad9fe09918295369c5d9b8ee1d026ea7261a0572",
+          "accentColor": "#d34f3c",
+          "darkAccentColor": "#7e2f24",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Joko%2Bund%2BKlaas%2Bgegen%2BProSieben/primary-joko-und-klaas-gegen-prosieben-st03.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ihr Gegner ist groß, rot und mächtiger denn je: Jetzt fordern Joko und Klaas gemeinsam einen ganzen Sender heraus. Es geht um Ruhm, Ehre und 15 Minuten Sendezeit.",
+        "path": "/serien/joko-klaas-gegen-prosieben"
+      },
+      {
+        "id": "d_pcq2yxyb8cl",
+        "title": "Mask Off",
+        "primaryImage": {
+          "id": "9aa37f52f7937d81a52d2a9b620102f4da6707ca",
+          "accentColor": "#f0b32d",
+          "darkAccentColor": "#906b1b",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000024669696_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Echt oder fake? Wohl kaum einer kann das so gut beurteilen wie Influencer mit ihrer Social-Media-Expertise. Doch erkennen sie auch beispielsweise Ex-Kriminelle oder Sexworker? ",
+        "path": "/serien/mask-off"
+      },
+      {
+        "id": "d_pspk031hd7g",
+        "title": "Alle meine Frauen",
+        "primaryImage": {
+          "id": "7dc4ea243dd56b0909309a26f95a538e96ec8dba",
+          "accentColor": "#ff563f",
+          "darkAccentColor": "#993325",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB532310010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ein Mann, vier Ehefrauen, 18 Kinder: Das klingt verrückt, ist aber Realität bei den Browns. Doku-Serie über das turbulente Leben und den Alltagswahnsinn der Patchwork-Großfamilie.",
+        "path": "/serien/alle-meine-frauen"
+      },
+      {
+        "id": "d_pjm4gmzvaz9",
+        "title": "Mein Leben mit 300 kg",
+        "primaryImage": {
+          "id": "a237a801ec643af73c6576afde154edba6d8cfd3",
+          "accentColor": "#1888a1",
+          "darkAccentColor": "#0e5160",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB539480001100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Wie fühlt es sich an, aufgrund von Körperfülle nicht alleine klarzukommen? Die Doku gibt Einblicke in das Leben übergewichtiger Menschen, die den Kilos den Kampf ansagen wollen.   ",
+        "path": "/serien/mein-leben-mit-300-kg"
+      },
+      {
+        "id": "d_pkzjrc8kx36",
+        "title": "The Taste",
+        "primaryImage": {
+          "id": "d6a62df9bfc38e54c2e75ff3689111d59aec7022",
+          "accentColor": "#0fabd7",
+          "darkAccentColor": "#096681",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000025951195_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "In diesem Kochwettbewerb zählt nur der Probierlöffel. Denn die Jury bestehend aus Spitzenköchen muss die Gerichte der Kandidaten blind bewerten.",
+        "path": "/serien/the-taste"
+      },
+      {
+        "id": "d_p0yt86wm9iw",
+        "title": "Dating ohne Grenzen: Countdown für die Liebe",
+        "primaryImage": {
+          "id": "c8a9cda39e52675f1719bf00168694e470931cf5",
+          "accentColor": "#c9845f",
+          "darkAccentColor": "#784f39",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/In%2B90%2BTagen%2Bzum%2BAltar-%2BCountdown%2Bfuer%2Bdie%2BLiebe/860x646-dating-ohne-grenzen-countdown-fuer-die-liebe-S03.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Wenn die Online-Romanze zur großen Liebe wird: Was passiert, wenn man nach dem Online Dating rund um den Globus reist und den Partner endlich kennenlernt. Kann das funktionieren?",
+        "path": "/serien/dating-ohne-grenzen-countdown-fuer-die-liebe"
+      },
+      {
+        "id": "d_pjm940hs0wq",
+        "title": "Der Geiger - Boss Of Big Blocks",
+        "primaryImage": {
+          "id": "6d4e0fd16cbbc8ea3b394ddab2546fc83fb471b6",
+          "accentColor": "#c3896d",
+          "darkAccentColor": "#755241",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB537660012100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Von Chevy über Chrysler bis zur legendären Viper: US-Car-Spezialist Karl Geiger verwandelt einfache Autos von der Stange in außergewöhnliche Unikate.",
+        "path": "/serien/der-geiger-boss-of-big-blocks"
+      },
+      {
+        "id": "d_p88sgtz8ghy",
+        "title": "Mein Lokal, Dein Lokal - Der Profi kommt",
+        "primaryImage": {
+          "id": "d269527b1a7e2372dcbcb30657cce822ee21f12d",
+          "accentColor": "#e46947",
+          "darkAccentColor": "#883f2a",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/9a66f1e5acc3552eada1a6a30a7ddc4c_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Pro Woche treten fünf Restaurantchefs aus einer Stadt gegeneinander an.",
+        "path": "/serien/mein-lokal-dein-lokal-der-profi-kommt"
+      }
+    ]
+  },
+  {
+    "id": "410:a516de2e3da3c93583fe007351b865ca",
+    "headline": "Schon vor TV-Ausstrahlung",
+    "assets": [
+      {
+        "id": "d_py64sha7pbc",
+        "title": "Navy CIS: L.A.",
+        "primaryImage": {
+          "id": "aa5ec6389ead75519d1facf44d76edb5fd5cc3f6",
+          "accentColor": "#c7853d",
+          "darkAccentColor": "#774f24",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Navy%2BCIS-%2BL.A/primary-Navy-CIS-LA.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Die Agenten der Undercover-Einheit des Navy CIS in Los Angeles setzen immer wieder ihr Leben aufs Spiel, um die nationale Sicherheit zu schützen und Verbrechen aufzuklären.",
+        "path": "/serien/navy-cis-la"
+      },
+      {
+        "id": "d_pmnph4knhi9",
+        "title": "Mein Lokal, Dein Lokal",
+        "primaryImage": {
+          "id": "53acbbbb2242b655f33ee60692fc0948535d564e",
+          "accentColor": "#6b9740",
+          "darkAccentColor": "#405a26",
+          "url": "https://img-int.joyn.de/ing/originals/t-015/STVM1000000024284321_series_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Fünf Restaurantchefs einer Stadt treten gegeneinander an, um zu beweisen, dass ihr Lokal das Beste ist. Dabei wird nicht nur das Essen, sondern auch Service und Atmosphäre bewertet.",
+        "path": "/serien/mein-lokal-dein-lokal-der-profi-kommt-dpmnph4knhi9"
+      },
+      {
+        "id": "d_p2gq18rohan",
+        "title": "Fang des Lebens: Bloodline",
+        "primaryImage": {
+          "id": "813d1ddcaefa9b83c8e4861a2d12a94709a981a4",
+          "accentColor": "#61c1c1",
+          "darkAccentColor": "#3a7373",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB529870006100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Als Josh Harris alte Seekarten seines verstorbenen Vaters findet, will er herausfinden, was es damit auf sich hat. So stürzt er sich in ein packendes Abenteuer im Pazifischen Ozean.",
+        "path": "/serien/fang-des-lebens-bloodline"
+      }
+    ]
+  },
+  {
+    "id": "410:54bb23120e08687c1c19c37a083d3ac1",
+    "headline": "Für den Grillabend",
+    "assets": [
+      {
+        "id": "d_ptntddxogtb",
+        "title": "Moonshiners: Master Distiller",
+        "primaryImage": {
+          "id": "45ca5fe8b6fa3eddc9b84175d09d521b1f026121",
+          "accentColor": "#f5be1f",
+          "darkAccentColor": "#937212",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB533090010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Wettbewerber aus ganz Amerika müssen diverse Prüfungen meistern, um die Kunst des Destillierens von den waschechten Moonshiners zu erlernen. Doch nur einer wird der Master Distiller. ",
+        "path": "/serien/moonshiners-master-distiller"
+      },
+      {
+        "id": "d_pjyk1t1k622",
+        "title": "BBQ Battle - Die Grillmeister",
+        "primaryImage": {
+          "id": "75e337156262f26736dccc21818b1a4b6f040d1b",
+          "accentColor": "#5da3e1",
+          "darkAccentColor": "#376187",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB368490001100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ran an den Rost! Amerikas Barbecue-Elite gibt sich am \"Smoker\" die Ehre und liefert sich beim Brutzeln hart umkämpfte Battles. Den Gewinnern winken nicht nur Ruhm und Ehre, sondern auch stattliche Preisgelder im Wert von mehreren tausend Dollar. Vom Hühnchen über die Schweineschulter bis zur Rinderbrust, die große Frage ist: Wessen Marinade verleiht dem Grillfleisch das ganz besondere Aroma? Sind die Köstlichkeiten auch zart und kross? Und wer überzeugt die Jury bei den \"Pit Wars\" in North Carolina, Georgia und Florida am Ende mit den delikatesten Gaumenfreuden?",
+        "path": "/serien/bbq-battle-die-grillmeister"
+      },
+      {
+        "id": "d_pdgiirr1jqw",
+        "title": "Barbecue Kings - Grillen um die Welt",
+        "primaryImage": {
+          "id": "8bde92acd4153a8c1e5e95eddb102d08563e0690",
+          "accentColor": "#e35c0f",
+          "darkAccentColor": "#883709",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB505860008100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Wenn die Sonne vom Himmel lacht, wird der Grill ausgepackt. Aber wie brutzelt man in anderen Ländern? Marc-Aurel Wulfhorst und Karl-Heinz Drews zeigen, wie man international grillt.",
+        "path": "/serien/barbecue-kings-grillen-um-die-welt"
+      },
+      {
+        "id": "d_pkw6hjdcw0w",
+        "title": "Beef Battle",
+        "primaryImage": {
+          "id": "92c870dce3fdf3e28ae803f711b89df3224fe2c9",
+          "accentColor": "#a03927",
+          "darkAccentColor": "#602217",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/BeefBattle/primaryImage-f80924b5aa2f96ebe11fc84e.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Bei dieser Kochshow können die Männer zeigen, was sie alles aus einem Stück Fleisch zaubern können. Dabei treten Hobbyköche gegen Profis an.",
+        "path": "/serien/beef-battle"
+      },
+      {
+        "id": "d_pndb79wlkdv",
+        "title": "Jack Maxwell: Hochprozentig um die Welt",
+        "primaryImage": {
+          "id": "95740066802fb04d5ee300c2a5011ea403b09a77",
+          "accentColor": "#6cbed3",
+          "darkAccentColor": "#40727e",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB482060015100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Zuckerrohrschnaps in Costa Rica, Hirsewein in Taiwan und Skaldenmet im schwedischen Värmland: Jack Maxwell studiert auf einer Tour rund um den Globus die hochprozentige DNA anderer Völker.",
+        "path": "/serien/jack-maxwell-hochprozentig-um-die-welt"
+      }
+    ]
+  },
+  {
+    "id": "410:b78790f0a27293cb980bd7984376b51d",
+    "headline": "Leidenschaft Auto: aus alt mach neu",
+    "assets": [
+      {
+        "id": "d_pov7iwlccr3",
+        "title": "Steel Buddies - Stahlharte Geschäfte",
+        "primaryImage": {
+          "id": "ac69424a26941ef4d5f2564481c94a936bb9127d",
+          "accentColor": "#c68a76",
+          "darkAccentColor": "#765246",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Steel%2BBuddies%2B-%2BStahlharte%2BGeschaefte/DCB515870010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ausrangierte Armeefahrzeuge sind Michael Manousakis Hobby. Der Motor-Experte sucht weltweit nach alten Militär-Wagen und lässt sie anschließend in neuem Glanz erstrahlen.",
+        "path": "/serien/steel-buddies-stahlharte-geschaefte"
+      },
+      {
+        "id": "d_pjm940hs0wq",
+        "title": "Der Geiger - Boss Of Big Blocks",
+        "primaryImage": {
+          "id": "6d4e0fd16cbbc8ea3b394ddab2546fc83fb471b6",
+          "accentColor": "#c3896d",
+          "darkAccentColor": "#755241",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB537660012100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Von Chevy über Chrysler bis zur legendären Viper: US-Car-Spezialist Karl Geiger verwandelt einfache Autos von der Stange in außergewöhnliche Unikate.",
+        "path": "/serien/der-geiger-boss-of-big-blocks"
+      },
+      {
+        "id": "d_psn301q31wm",
+        "title": "Die Gebrauchtwagen-Profis - Neuer Glanz für alte Kisten",
+        "primaryImage": {
+          "id": "21a984d61c3d7f692e0efe6840103f0087311089",
+          "accentColor": "#c29d80",
+          "darkAccentColor": "#745e4c",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB541070003100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Mike hält in den USA nach preisgünstigen Modellen Ausschau und sein Partner hübscht die alten Kisten auf der Hebebühne fachmännisch auf - um sie mit Gewinn zu verkaufen.",
+        "path": "/serien/die-gebrauchtwagen-profis-neuer-glanz-fuer-alte-kisten"
+      },
+      {
+        "id": "d_pjm940dtm5m",
+        "title": "Fast N' Loud",
+        "primaryImage": {
+          "id": "cbc1f6f1fd60d3693b09b89fb0c8db60ba3eb2c2",
+          "accentColor": "#df5447",
+          "darkAccentColor": "#85322a",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB469190002100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Mastermind Richard Rawlings und Profi-Mechaniker Aaron Kaufman suchen nach seltenen und betagten Oldtimern, die sie wieder in Schuss bringen können.",
+        "path": "/serien/fast-n-loud"
+      },
+      {
+        "id": "d_pxwfectuvfy",
+        "title": "Steel Buddies Specials",
+        "primaryImage": {
+          "id": "eb65e14cfee41024a332732a8c938d8d5aeeafa5",
+          "accentColor": "#d36a62",
+          "darkAccentColor": "#7e3f3a",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCA52606100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Profihändler Michael Manousakis hat einen Vertrag mit der US Army und kauft alles, was sie europaweit aussondern. Dann versucht er es zu versteigern - hier in extralangen Specials.",
+        "path": "/serien/steel-buddies-specials"
+      },
+      {
+        "id": "d_pfbvghvag94",
+        "title": "Rust Valley Restorers",
+        "primaryImage": {
+          "id": "0c0955b975a4a554de17081f6973e489915f67ab",
+          "accentColor": "#e55e3d",
+          "darkAccentColor": "#893824",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB534870011100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Mike Hall ist süchtig nach Rost! Der Autoliebhaber hat im Laufe der letzten 40 Jahre in der kanadischen Provinz British Columbia mehr als 400 Oldtimer angesammelt. Im „Rust Valley“ reiht sich eine verbeulte Blechkutsche an die nächste. Und es ist an der Zeit, dass der eingefleischte Kfz-Freak mit seiner Passion Profite einfährt. Mike will die betagten Vehikel mit seinem Sohn Connor und seiner Crew in der Werkstatt restaurieren und zu Geld machen. Vom 71er Camaro über den GMC Pick-up-Truck aus den Fünfzigerjahren bis zum abgewrackten Chevy Blazer: Das Team von „Rust Bros Restaurations“ schwingt in Nordamerika den Schraubenschlüssel und möbelt auf der Hebebühne marode US-Klassiker auf.",
+        "path": "/serien/rust-valley-restorers"
+      },
+      {
+        "id": "d_p6jiit0hjbq",
+        "title": "Monster Garage",
+        "primaryImage": {
+          "id": "fb22ca676336cbda09512ab347ed3a6dd804fad9",
+          "accentColor": "#1753b0",
+          "darkAccentColor": "#0d3169",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB539890005100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Eine neue Werkstatt und abgefahrene Projekte: Jesse James öffnet auf DMAX wieder die Tore der „Monster Garage“. Ambitionierte Mechanik-Profis setzen in der Kfz-Schmiede mit einem festgelegten Budget verrückte Ideen in die Tat um. Vom 56 Jahre alten Jaguar S-Type mit Pulstriebwerk über den 750 PS starken Highspeed-Mähdrescher bis zum „Moonshiner“-Auto mit eingebauter Destillieranlage: Die Teams stellen sich anspruchsvollen technischen Herausforderungen und sie dürfen maximal 5500 Dollar für Ersatzteile ausgeben. Bei der Testfahrt heißt es anschließend: Daumen hoch oder Daumen runter? Haben die Konstruktions-Genies ganze Arbeit geleistet oder nur einen Haufen Schrott zusammengeschraubt?",
+        "path": "/serien/monster-garage"
+      },
+      {
+        "id": "d_pbf4uzie22q",
+        "title": "Ivan & Zoran - Die Balkan-Car-Connection",
+        "primaryImage": {
+          "id": "a1f997397e1f75c8c40a369b377863432737f8d1",
+          "accentColor": "#cfa474",
+          "darkAccentColor": "#7c6245",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB528870008100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ivan und Zoran teilen eine gemeinsame Leidenschaft: Die Brüder retten betagte Rostlauben vor der Schrottpresse. Dabei gehen sie oft in Südosteuropa auf Beutejagd.",
+        "path": "/serien/ivan-zoran-die-balkan-car-connection-dpbf4uzie22q"
+      },
+      {
+        "id": "d_pjm94017mxx",
+        "title": "Car Rescue - Ran an den Rost!",
+        "primaryImage": {
+          "id": "989073dcfab71ee4e4804cbe4a26ef7cfde79e7b",
+          "accentColor": "#ad8151",
+          "darkAccentColor": "#674d30",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB527270010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Aus Alt mach Neu! Joe Martin und sein Team machen aus der alten Rostlaube im Handumdrehen einen heißen Schlitten. So ein Auto sieht man garantiert kein zweites Mal!",
+        "path": "/serien/car-rescue-ran-an-den-rost"
+      },
+      {
+        "id": "d_p25gk9tmyyc",
+        "title": "Cash für Chrom",
+        "primaryImage": {
+          "id": "44540aec155d7ec43224545aad7e1c8f097a8650",
+          "accentColor": "#c87b63",
+          "darkAccentColor": "#78493b",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB490860006100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Klaus Borrmann zieht es nach zehn Jahren aus Kalifornien zurück nach Hamburg. Dort versucht er erneut sein Glück mit einem Kfz-Betrieb. Doch neben den Investitionen ist auch das Risiko hoch.",
+        "path": "/serien/cash-fuer-chrom"
+      },
+      {
+        "id": "d_ptv4mmw0voi",
+        "title": "Tuning Trophy Germany",
+        "primaryImage": {
+          "id": "73eae244883d91ea5f6b018deeaf4cbb9d23a239",
+          "accentColor": "#ae7c69",
+          "darkAccentColor": "#684a3f",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB539160008100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Sidney Hoffmann kürt zusammen mit dem DTM-Fahrer Maximilian Götz und wechselnden Gast-Juroren das beste Tuning-Auto Deutschlands. In jeder Folge checken die erfahrenen Profis drei aufgemotzte Fahrzeuge auf Herz und Nieren - vom BMW M3 über den Nissan Skyline bis zum VW Polo R WRC, einem Rallye-Ableger für die Straße. Die fahrbaren Untersätze müssen sowohl auf der Rennstrecke als auch auf der Hebebühne eine gute Figur machen. Denn die Experten verteilen Punkte in den Kategorien Style, Fahrspaß und Technik. Gesucht wird das stimmigste Gesamtkonzept. Die erfolgreichsten Kandidaten qualifizieren sich für das Finale in Dortmund. Welches Vehikel hat bei der „Tuning Trophy Germany“ die Nase vorn?",
+        "path": "/serien/tuning-trophy-germany"
+      },
+      {
+        "id": "d_pl7jgu679zu",
+        "title": "King of Trucks",
+        "primaryImage": {
+          "id": "fd7fb76451fc2cdf16c3b82f29cb10baffe30785",
+          "accentColor": "#783933",
+          "darkAccentColor": "#48221e",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB532500008100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Jedes Fahrzeug ist ein Unikat: Marco Barkanowitz bringt mit seinem Team in Deutschland spektakuläre Hingucker auf die Straße. Bei jedem Projekt realisieren die Lkw-Experten ein thematisches Konzept.",
+        "path": "/serien/king-of-trucks"
+      },
+      {
+        "id": "d_p1pv5lhfreh",
+        "title": "Die Schrottmaster - Altes Eisen, frisches Geld",
+        "primaryImage": {
+          "id": "2dab58627cfa3912204ceafef6bfcd4cc210d8cd",
+          "accentColor": "#e61855",
+          "darkAccentColor": "#8a0e33",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB528880010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Bei den Schrottmastern heißt es Abtransportieren, Ausschlachten, Wiederverwerten. Vom Kupferdraht bis zum abgewrackten Unfallwagen: Sie verwandeln verbeultes Blech in bare Münze. ",
+        "path": "/serien/die-schrottmaster-altes-eisen-frisches-geld"
+      },
+      {
+        "id": "d_pjm940flf8y",
+        "title": "Chris & Mäx: Die Oldtimer-Spezialisten",
+        "primaryImage": {
+          "id": "ae8a3685e643d8bf5f1a985c730ae44d2208c483",
+          "accentColor": "#0bdbd1",
+          "darkAccentColor": "#06837d",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB463260007100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Kultkarossen, die schon bessere Tage gesehen haben, bekommen eine Generalüberholung. Chris und Mäx kaufen ausrangierte Wagen, restaurieren sie und verkaufen sie mit Gewinn weiter.",
+        "path": "/serien/chris-maex-die-oldtimer-spezialisten"
+      },
+      {
+        "id": "d_pbi51ldyz5d",
+        "title": "Sidneys Welt",
+        "primaryImage": {
+          "id": "059e0d6b5a0bd330e59afc7395751178e0dc4c10",
+          "accentColor": "#942922",
+          "darkAccentColor": "#581814",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB523070008100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Kult-Tuner, Geschäftsmann, YouTuber: Sidney Hoffmann ist eines der bekanntesten Gesichter der deutschen Automobil-Szene. Die Doku-Serie begleitet den Kfz-Freak auf Tuning-Messen und mehr.",
+        "path": "/serien/sidneys-welt"
+      },
+      {
+        "id": "d_pppxxp0enr1",
+        "title": "American Chopper",
+        "primaryImage": {
+          "id": "c3d809e12ee769cb8a948f8fed4972544a17f42f",
+          "accentColor": "#f0d461",
+          "darkAccentColor": "#907f3a",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB298860022100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Junior gegen Senior: Schrauber-Sohn Paulie hat aus den ewigen Streitereien mit seinem alten Herren Konsequenzen gezogen: Der Junior betreibt nun erfolgreich seine eigene Chopper-Schmiede. Zusammen mit seinem Mechaniker-Team macht er seinem Vater kräftig Konkurrenz. Familien-Eintracht Fehlanzeige! Stattdessen geistert nur eine Frage durch die Werkstatt: Wer baut den heißeren Feuerstuhl? Oder kommen die schnauzbärtigen Streithähne am Ende doch auf einen gemeinsamen Nenner? Aktuell sieht es nicht danach aus: Bei der kleinsten Annäherung kracht es im Gebälk. Diplomatie war eben noch nie die Stärke der Teutuls. Den Bikes hat das bis dato aber nicht geschadet - die sind nach wie vor absolute Extraklasse!",
+        "path": "/serien/american-chopper"
+      },
+      {
+        "id": "d_pjm94009sxq",
+        "title": "Speed Is The New Black - Hauptsache schnell!",
+        "primaryImage": {
+          "id": "cdbde841b0d5d17996b5492b5b211d2e0ef92582",
+          "accentColor": "#3b75a7",
+          "darkAccentColor": "#234664",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Speed%2BIs%2BThe%2BNew%2BBlack%2B-%2BHauptsache%2Bschnell-/primaryImage-f1e5aad43f38b4c165088708.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Bei Autoschrauber Noah Alexander und seinem Team dreht sich alles um Tempo. Die Tuner des “Classic Car Studios” machen aus den Sportwagen ihrer Kunden echte PS-Kraftprotze.",
+        "path": "/serien/speed-is-the-new-black-hauptsache-schnell"
+      },
+      {
+        "id": "d_pjm9402pt5v",
+        "title": "Die Auto-Messies",
+        "primaryImage": {
+          "id": "efa4526619fd5fc27cee99542456a588b9aa3f7d",
+          "accentColor": "#8e5733",
+          "darkAccentColor": "#55341e",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Die%2BAuto-Messies/primaryImage-056a8905a202eca984c3abba.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Autosammler gibt es viele, doch manche pflegen ihren Besitz nicht. Ex-Wrestler Chuck Palumbo und Hot-Rod-Experte Rick Dore retten solche Härtefälle vor Rost und Verschrottung.",
+        "path": "/serien/die-auto-messies"
+      },
+      {
+        "id": "d_pjm940l1zps",
+        "title": "Goblin Works Garage - Das Tuner-Trio ",
+        "primaryImage": {
+          "id": "68d03576deb8903429e268c0c8703eee27135b7a",
+          "accentColor": "#aa7547",
+          "darkAccentColor": "#66462a",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Goblin%2BWorks%2BGarage%2B-%2BDas%2BTuner-Trio/primaryImage-4e4245e8aec3bc6d5c9e7eb1.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Egal, ob zwei oder vier Räder: Die britischen KFZ-Experten Jimmy de Ville, Ant Partridge und Helen Stanley verwandeln betagte Serienmodelle in hochmoderne Unikate mit getuntem Seltenheitswert.",
+        "path": "/serien/goblin-works-garage-das-tuner-trio"
+      },
+      {
+        "id": "d_pldx9qerjxw",
+        "title": "Bad Chad Customs",
+        "primaryImage": {
+          "id": "97081d5d5f8c6fa94ce899aed88a98ce7b197a7b",
+          "accentColor": "#efa871",
+          "darkAccentColor": "#8f6443",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB521860007100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Autohandwerker Chad Hiltz kriegt mit seinem Team auch die kaputteste Rostlaube kostengünstig wieder flott. Kreativ nutzt er dafür auch Ersatzteile von Flugzeugen oder Schiffen.",
+        "path": "/serien/bad-chad-customs"
+      },
+      {
+        "id": "d_pj5vq67xlib",
+        "title": "Die Gebrauchtwagen-Profis: Der Traumauto-Deal",
+        "primaryImage": {
+          "id": "2c60a5edab40586a2d2a4dc09d5bf511e99f6f4e",
+          "accentColor": "#93151c",
+          "darkAccentColor": "#580c10",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB509460002100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Mike Brewer geht auf dem Gebrauchtwagenmarkt auf Beutefang. Der Kfz-Experte erfüllt seinen Kandidaten mit profitablen An- und Verkäufen ihren Träume auf vier Rädern.",
+        "path": "/serien/die-gebrauchtwagen-profis-der-traumauto-deal"
+      }
+    ]
+  },
+  {
+    "id": "410:28db8e978eb724d04bc52f767fcdfddf",
+    "headline": "Ab in den Garten",
+    "assets": [
+      {
+        "id": "d_p7nwrppufka",
+        "title": "Die Meistergärtner - Deutschlands grüne Oasen",
+        "primaryImage": {
+          "id": "a9234e0580647864669b63e844fad3cb5621bac5",
+          "accentColor": "#d4ce24",
+          "darkAccentColor": "#7f7b15",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB532270008100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Wie wird aus einem einfachen Garten eine Wellness-Oase? Die Meistergärtner gestalten originelle und atemberaubende Gärten und machen aus bizarrem Kundenwunsch blühende Wirklichkeit.",
+        "path": "/serien/die-meistergaertner-deutschlands-gruene-oasen"
+      },
+      {
+        "id": "d_p5gyi68sv2s",
+        "title": "Gartln mit Starkl",
+        "primaryImage": {
+          "id": "77e199578440291757ad73df6db7b8eaca80767b",
+          "accentColor": "#a45b23",
+          "darkAccentColor": "#623615",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB528920026100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Gartenprofi Josef Starkl besucht österreichische Privatgärten und spricht mit den Besitzern über ihre Gärtnerleidenschaft. Dabei gibt er Tipps rund um Gartenpflege- und Gestaltung.",
+        "path": "/serien/gartln-mit-starkl"
+      },
+      {
+        "id": "d_pgywo3an60c",
+        "title": "Die Garten-Retter",
+        "primaryImage": {
+          "id": "d30dd692ae9f8409a614137441b250efafb1eb1b",
+          "accentColor": "#96b94c",
+          "darkAccentColor": "#5a6f2d",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB527490013100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Überraschung im Baumarkt: Lifestyle-Experte Matt Blashaw macht sich eben dort auf die Suche nach Heimwerkern, die er mit einem ultimativen Garten-Makeover begeistern will.",
+        "path": "/serien/die-garten-retter"
+      },
+      {
+        "id": "d_pgiwhdynzs6",
+        "title": "Die Beetschwestern - Traumgärten leicht gemacht",
+        "primaryImage": {
+          "id": "f3630b51cac1e02bdbd0d707b11bc3bc742a7edb",
+          "accentColor": "#9dc55e",
+          "darkAccentColor": "#5e7638",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB509870003100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Die Schwestern Iza und Olga schenken verwahrlosten Gärten und Terrassen in nur wenigen Tagen ein neues Leben und verraten viele nützliche Tipps für einen schönen Outdoor-Bereich.  ",
+        "path": "/serien/die-beetschwestern-traumgaerten-leicht-gemacht"
+      },
+      {
+        "id": "d_possl3wwtmh",
+        "title": "Gartenglück mit Sara Bendrick",
+        "primaryImage": {
+          "id": "57b61462b9ce7a8a1d9ab40e3f6bbd2e12e53b59",
+          "accentColor": "#e9cf23",
+          "darkAccentColor": "#8b7c15",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB516460007100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Die Landschaftsdesignerin Sara Bendrick hilft Hausbesitzern, ihre heruntergekommenen Gärten und Grundstücke in nur wenigen Tagen zu verschönern.",
+        "path": "/serien/gartenglueck-mit-sara-bendrick"
+      },
+      {
+        "id": "d_pgz1zzyzm6l",
+        "title": "Wettkampf der Garten-Profis",
+        "primaryImage": {
+          "id": "23a182fb98be317cce4b8dc07e4c642cd6404e79",
+          "accentColor": "#cc9f81",
+          "darkAccentColor": "#7a5f4d",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB513890020100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Drei Garten-Experten sind bereit für eine neue Challenge: Die Garten-Profis haben nur das Budget, dass die Hausbesitzer ihnen zur Verfügung stellen, um verwahrloste Gärten zu überarbeiten.  ",
+        "path": "/serien/wettkampf-der-garten-profis"
+      },
+      {
+        "id": "d_pguzfiugnk2",
+        "title": "GartenKULT",
+        "primaryImage": {
+          "id": "1b915c536db54a0b07c59be9c9d34ebce14daf4e",
+          "accentColor": "#91b633",
+          "darkAccentColor": "#576d1e",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB514080010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Gärtnern leicht gemacht: Katharina Gritzner und Gartenprofi Josef Starkl führen durch die wichtigsten Gartentypen und verraten bewährte Tipps und Tricks für den heimischen Garten.",
+        "path": "/serien/gartenkult"
+      },
+      {
+        "id": "d_plavyp3xjv9",
+        "title": "SOS Garten",
+        "primaryImage": {
+          "id": "c7a569bdd5cd9b39e1aca74064f7119256beae6c",
+          "accentColor": "#31bcdc",
+          "darkAccentColor": "#1d7084",
+          "url": "https://img-int.joyn.de/gn/assets/p10941704_i_h6_aa.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Moderatorin Andrea Göpel und ihr Team packen in \"SOS Garten\" das Übel wortwörtlich bei der Wurzel. Die schlimmsten Gärten Deutschlands werden mit vereinten Kräften in ein blühendes Paradies verwandelt. Die Gartenbesitzer müssen natürlich auch selbst mit ran: Zuerst wird das private Grün \"entrümpelt\" und \"aufgeräumt\", dann kommen die Pflanzen-Profis und gestalten den Garten komplett neu. Danach wird die zuvor verwahrloste Grünfläche nicht mehr wiederzuerkennen sein...",
+        "path": "/serien/sos-garten"
+      },
+      {
+        "id": "d_p6l0rs7ntin",
+        "title": "Zu Gast bei Martha Stewart",
+        "primaryImage": {
+          "id": "144911c9fa19df31580cc2085023c26006e1e6af",
+          "accentColor": "#99d124",
+          "darkAccentColor": "#5b7d15",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB528280003100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Auf ihrer Farm pflanzt Martha Stewart Kräuter, Aloe vera und Agaven ein. Dabei gibt die US-Unternehmerin Geheimtipps, damit die Pflanzen den ganzen Sommer überleben.",
+        "path": "/serien/zu-gast-bei-martha-stewart"
+      }
+    ]
+  },
+  {
+    "id": "410:e5ba84126113a193d381f8ef769ef493",
+    "headline": "Lust auf Sonne, Strand und Meer?",
+    "assets": [
+      {
+        "id": "d_p4pm0vhshl9",
+        "title": "Renovation Island - Unser Traum vom Luxus-Resort ",
+        "primaryImage": {
+          "id": "b3971492f08c6510b2a196d4e8b2077f234e584b",
+          "accentColor": "#58dee1",
+          "darkAccentColor": "#348587",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB533460005100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Sarah und Bryan Baeumler ziehen mit ihren vier Kindern auf die Bahamas, um ein heruntergekommenes Strandresort zu sanieren - und in nur sechs Monaten startet die Hauptsaison.",
+        "path": "/serien/renovation-island-unser-traum-vom-luxus-resort"
+      },
+      {
+        "id": "d_pvffhp6fq5d",
+        "title": "Beach House Hunters",
+        "primaryImage": {
+          "id": "791abc05cfe3310f77904a7f22ce04074e81f55d",
+          "accentColor": "#0174b4",
+          "darkAccentColor": "#00456c",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB532730014100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ein Traumhaus an einem der schönsten Strände der Welt finden: Das ist die Mission dieser Makler, die den potentiellen Käufern luxuriöse Immobilien schmackhaft machen. ",
+        "path": "/serien/beach-house-hunters"
+      },
+      {
+        "id": "d_poj4tsttscf",
+        "title": "Mein Haus im Paradies",
+        "primaryImage": {
+          "id": "1f30e8b693e9bca5cfaa5d9492fdfdecca33559e",
+          "accentColor": "#b59d31",
+          "darkAccentColor": "#6c5e1d",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB510270010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Mit einem Haus am Strand führt man ein Leben im Paradies. Doch die Suche nach abgelegenen Immobilien an den traumhaftesten Plätzen der Erde gestaltet sich nicht immer einfach.",
+        "path": "/serien/mein-haus-im-paradies"
+      },
+      {
+        "id": "d_pnrz9wzck8w",
+        "title": "Mein Haus am Strand",
+        "primaryImage": {
+          "id": "330ddc937579fcc75e94faaccbe34e66f9c000bf",
+          "accentColor": "#49b6f6",
+          "darkAccentColor": "#2b6d93",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB533270013100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ein erschwingliches Urlaubsdomizil am Meer ist gekauft - jetzt geht es unter Einhaltung des Budgets ans Umgestalten. Dafür lassen die Familien der Fantasie freien Lauf.",
+        "path": "/serien/mein-haus-am-strand"
+      },
+      {
+        "id": "d_priccb0vtz3",
+        "title": "Traumhaus am Mittelmeer",
+        "primaryImage": {
+          "id": "aaa2534f3a9f9de6d7843f8e4cbb4476024dfd01",
+          "accentColor": "#0d6b9f",
+          "darkAccentColor": "#07405f",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB485000015100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Als sich die Gelegenheit für Ann und Chris ergibt, ihre stressige Arbeit in der Filmindustrie niederzulegen, will sich das Paar den Traum von einem relaxten Lebensstil in Spanien erfüllen. ",
+        "path": "/serien/traumhaus-am-mittelmeer"
+      },
+      {
+        "id": "d_posqelt8ut7",
+        "title": "Island Life - Traumhaus gesucht",
+        "primaryImage": {
+          "id": "83bfe3247329c39ba4dc32b9e56b149e6846d1d9",
+          "accentColor": "#5f8ee1",
+          "darkAccentColor": "#395587",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB488580014100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ein eigenes Heim auf einer Insel: Für viele ein unerreichbarer Traum. Hier bekommen jedoch potentielle Auswanderer die Chance, den Traum wahr werden zu lassen. ",
+        "path": "/serien/island-life-traumhaus-gesucht"
+      },
+      {
+        "id": "d_p7udufz717j",
+        "title": "Traumhaus gesucht: Hawaii",
+        "primaryImage": {
+          "id": "0a8e6fff8340627d30793d48fb317329d65f6ceb",
+          "accentColor": "#ca685a",
+          "darkAccentColor": "#793e36",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB530280006100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Haus gesucht in Hawaii: Viele Menschen träumen von einem Leben im Paradies, doch nur wenige trauen sich den großen Schritt. Für die mutigen Auswanderer suchen die Immobilienmakler auf der Inselkette Oahu, Kauai, Maui und The Big Island Traumhäuser für jeden Lebensstil und von erschwinglich bis luxuriös. Die Doku-Serie begleitet Paare und Familien bei ihren ersten Momenten in ihrer neuen Heimat und den Herausforderungen, denen sie sich stellen müssen.",
+        "path": "/serien/traumhaus-gesucht-hawaii-dp7udufz717j"
+      },
+      {
+        "id": "d_p91r5suehjn",
+        "title": "Beach Around the World – Wir ziehen ans Meer!",
+        "primaryImage": {
+          "id": "5c242d31122997884d6dab394c2c0853424f221e",
+          "accentColor": "#f2c40e",
+          "darkAccentColor": "#917508",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB530270012100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Der Traum von einem entspannten Leben am Meer ist zum Greifen nah! Dafür entführt uns die neue Doku-Serie \"Beach Around the World - Wir ziehen ans Meer!\" zu den schönsten Stränden der Welt - von paradiesischen Inseln in Asien über die weißen Sandstrände von Costa Rica bis hin zu atemberaubenden Küsten in Portugal und Spanien. Die Hausjäger begeben sich mit professioneller Unterstützung auf die Suche nach ihrem perfekten Domizil am Strand, um ihren Wunsch nach einem Traumhaus am Strand endlich zu verwirklichen.",
+        "path": "/serien/beach-around-the-world-wir-ziehen-ans-meer"
+      },
+      {
+        "id": "d_pe28wuaf7jo",
+        "title": "Strandhaus gesucht",
+        "primaryImage": {
+          "id": "ac560ab2df6bed4641e17956ea0b499566e9ec64",
+          "accentColor": "#c8b97d",
+          "darkAccentColor": "#786f4b",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB353460008100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Sie sind Aussteiger auf der Suche nach einem Eigenheim und einem ruhigen Leben auf einer Trauminsel - irgendwo auf einem wunderschönen Eiland in Texas, Mississippi, Florida oder den Outer Banks. Doch nicht immer ist das Angebot auch wirklich erstrebenswert. Dass das Leben auf einer Trauminsel oft mit nassen Füßen verbunden ist, mag da noch das kleinere Übel sein. Richtig abenteuerlich kann es werden, wenn zivilisatorische Errungenschaften wie Elektrizität oder fließend Wasser komplett fehlen. Die zukünftigen Eigentümer müssen sich gut überlegen, welche Insel für ihren Lebenstraum am besten geeignet ist.",
+        "path": "/serien/strandhaus-gesucht"
+      },
+      {
+        "id": "d_p9cf8izs8l1",
+        "title": "Sizilianischer Haustraum mit Lorraine Bracco",
+        "primaryImage": {
+          "id": "1f31f5de169e3358fe63aa1e5661cd06be49d111",
+          "accentColor": "#0765c6",
+          "darkAccentColor": "#043c76",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB533310001100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Lorraine Bracco folgt ihren italienischen Wurzeln und kehrt nach Sizilien zurück. Dort kauft sie eine heruntergekommene Ruine, die sie in eine wunderschöne Villa verwandeln will.",
+        "path": "/serien/sizilianischer-haustraum-mit-lorraine-bracco"
+      }
+    ]
+  },
+  {
+    "id": "410:6471bb24ba39cba426f2958c0f42c966",
+    "headline": "Überleben in der Wildnis",
+    "assets": [
+      {
+        "id": "d_pjm940egtv1",
+        "title": "Naked Survival - Ausgezogen in die Wildnis",
+        "primaryImage": {
+          "id": "571c08044358752d7756fe0a8f555d3f199f0ddb",
+          "accentColor": "#dde72e",
+          "darkAccentColor": "#848a1b",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB536470006100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Was ist schlimmer, als fernab der Zivilisation zu stranden? Wenn man dabei auch noch nackt ist! Dieser Herausforderung müssen sich in dieser Show zwei Fremde für 21 Tage stellen.",
+        "path": "/serien/naked-survival-ausgezogen-in-die-wildnis"
+      },
+      {
+        "id": "d_pjm940b1lj0",
+        "title": "Naked Survival XXL - 40 Tage Überleben",
+        "primaryImage": {
+          "id": "bf2dc86d08b6a1afd647755ccb05498430bac9d1",
+          "accentColor": "#a5714f",
+          "darkAccentColor": "#63432f",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB516070010100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Die Gewinner von “Naked Survival” haben schon Erfahrung mit dem Überleben in der Wildnis gemacht. Hier müssen sie aber doppelt so lang durchhalten - und sind genauso nackt.",
+        "path": "/serien/naked-survival-xxl-40-tage-ueberleben"
+      },
+      {
+        "id": "d_pjm940oglti",
+        "title": "Alaskan Bush People",
+        "primaryImage": {
+          "id": "c4e434670fcb0f47d993ebf7b0ec9a2db51917e8",
+          "accentColor": "#cbad88",
+          "darkAccentColor": "#796751",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB506060013100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Alaskas raue Wildnis und mittendrin eine Familie mit sieben Kindern: Die Browns leben seit Jahren fernab von jeglicher Zivilisation, ohne Strom, aber im Einklang mit der Natur. ",
+        "path": "/serien/alaskan-bush-people"
+      },
+      {
+        "id": "d_pzuekr6p4f7",
+        "title": "100 Days Wild - Das Survival-Abenteuer ",
+        "primaryImage": {
+          "id": "862930c1ecb6e4838daad8074ac745e695bb02a1",
+          "accentColor": "#fdb921",
+          "darkAccentColor": "#976f13",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB525480007100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Sieben Abenteurer testen in Alaska ihre eigenen Grenzen. In 100 Tagen beginnt der Winter und sie müssen auf sich allein gestellt eine Kolonie errichten. Können sie das schaffen?",
+        "path": "/serien/100-days-wild-das-survival-abenteuer"
+      },
+      {
+        "id": "d_pjm940hkz6o",
+        "title": "Nordalaska - Überleben am Polarkreis",
+        "primaryImage": {
+          "id": "07e705db3068b5892330edd0481fd73abd914fd9",
+          "accentColor": "#709abd",
+          "darkAccentColor": "#435c71",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Nordalaska%2B-%2BUeberleben%2Bam%2BPolarkreis/primaryImage-eeb43a0b5f9d4f80a4d5a482.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Das nördlichste Naturschutzgebiet der USA ist doppelt so groß wie die Schweiz und hat keine Straßen. Die einzigen Bewohner leben in nur sieben Blockhütten.",
+        "path": "/serien/nordalaska-ueberleben-am-polarkreis"
+      },
+      {
+        "id": "d_pl4wmnhn9ub",
+        "title": "Naked Survival: 60 Tage für Profis",
+        "primaryImage": {
+          "id": "14547c605ea0b2f2f8e0e15176ed7cf92bc44f29",
+          "accentColor": "#ee803c",
+          "darkAccentColor": "#8e4c24",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCA48798100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Ein Team von Outdoor-Profis versucht, 60 Tage lang in der Wildnis zu überleben. Danach wird die Challenge mit weiteren Kandidaten an der Küste fortgesetzt. Kann die Gruppe zusammen arbeiten?  ",
+        "path": "/serien/naked-survival-60-tage-fuer-profis"
+      },
+      {
+        "id": "d_pc1mm5ajms0",
+        "title": "Mountain Men - Überleben in der Wildnis",
+        "primaryImage": {
+          "id": "c4517c65fffe91a095703be745b9a19ecddf9c3f",
+          "accentColor": "#d3542e",
+          "darkAccentColor": "#7e321b",
+          "url": "https://img-int.joyn.de/ing/originals/t-005/c68af10a017c589b89ff6d56b317740b_1_SERIES.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Eustace Conway, Tom Oar and Marty Meierotto wollen den Aussteiger-Traum in der amerikanischen Wildnis verwirklichen. Doch die Realität stellt die drei vor mancherlei Hindernis. ",
+        "path": "/serien/mountain-men-ueberleben-in-der-wildnis"
+      },
+      {
+        "id": "d_pozbauns40d",
+        "title": "Fish or Die - Angeltrip ins Ungewisse ",
+        "primaryImage": {
+          "id": "159ed5962ff821b7d109eeb5ac0663bf8e37f10c",
+          "accentColor": "#d4a61d",
+          "darkAccentColor": "#7f6311",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB486660005100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Vier Freunde stürzen sich in packende Abenteuer. Mit Angeltrips zu den entlegensten und wildesten Plätzen rund um den Globus, fischen sie und lernen verschiedene Kulturen kennen.",
+        "path": "/serien/fish-or-die-angeltrip-ins-ungewisse"
+      },
+      {
+        "id": "d_plavuu3i4xy",
+        "title": "Wild Island",
+        "primaryImage": {
+          "id": "a22f110e60564f0da7b88d80b2bad1b4c3af3e95",
+          "accentColor": "#4e93b1",
+          "darkAccentColor": "#2e586a",
+          "url": "https://img-int.joyn.de/cms-e2e/var/assets/SharedContent/Series/Wild%2BIsland/primaryImage-ac7f4d0daa2b2ce2fd1047cf.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Wie lange hältst du es im Paradies aus? 14 Frauen und Männer wagen das größte Abenteuer Ihres Lebens. In \"Wild Island\" tauschen sie auf einer Insel vor Panama vier Wochen lang den Luxus des Alltags gegen die Ursprünglichkeit einer Trauminsel: Smartphones als Hilfe? Fehlanzeige. Krasses echtes Leben statt Abenteuertipps aus dem Internet. Wie mache ich bei tropischer Luftfeuchtigkeit ein Feuer? Wie häute ich einen Kaiman? Die Herausforderung: Die Abenteurer filmen sich selbst.",
+        "path": "/serien/wild-island"
+      },
+      {
+        "id": "d_pcm6r2qvr0r",
+        "title": "SOS: Anleitung zum Überleben",
+        "primaryImage": {
+          "id": "5f3a9027e6d67a6536925d2350145d2384ba657e",
+          "accentColor": "#7bade1",
+          "darkAccentColor": "#496787",
+          "url": "https://img-int.joyn.de/ing/originals/t-014/DCB503480001100310001_SERIES_primary.jpg/profile:nextgen-web-heroportrait-243x365"
+        },
+        "description": "Die Natur ist sein Wohnzimmer: Creek Stewart kennt sich in der Wildnis bestens aus und gibt sein Wissen an das breite Publikum weiter. Dort erklärt er auch, wie man bedrohliche Extremsituationen meistert.",
+        "path": "/serien/sos-anleitung-zum-ueberleben"
+      }
+    ]
+  }
+]
