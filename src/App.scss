@@ -1,3 +1,6 @@
 .red {
   color: red !important;
+  & span {
+    color: blue;
+  }
 }

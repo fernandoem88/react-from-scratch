@@ -5,43 +5,20 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 module.exports = {
   mode: prod ? "production" : "development",
-  entry: "./src/index.tsx",
+  entry: "./src/index.jsx",
   output: {
     path: __dirname + "/dist/",
   },
   module: {
     rules: [
       {
-        test: /\.(ts|tsx)$/,
+        test: /\.(js|jsx)$/,
         exclude: /node_modules/,
-        resolve: {
-          extensions: [".ts", ".tsx", ".js", ".json"],
-        },
-        use: "ts-loader",
+        use: ["babel-loader"],
       },
       {
-        test: /\.css$/,
-        use: [MiniCssExtractPlugin.loader, "css-loader"],
-      },
-      {
-        test: /\.module\.scss$/i,
-        use: [
-          {
-            loader: "style-loader",
-          },
-          {
-            loader: "css-loader",
-            options: {
-              importLoaders: 1,
-              modules: {
-                mode: "local",
-              },
-            },
-          },
-          {
-            loader: "sass-loader",
-          },
-        ],
+        test: /\.(c|sa|sc)ss$/,
+        use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader"],
       },
     ],
   },
@@ -52,4 +29,7 @@ module.exports = {
     }),
     new MiniCssExtractPlugin(),
   ],
+  resolve: {
+    extensions: ["*", ".js", ".jsx"],
+  },
 };
