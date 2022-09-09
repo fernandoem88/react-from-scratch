@@ -1,7 +1,5 @@
-import { Lane, LanesSchema } from "../../types";
-
-export const getLanesSchema = (lanes: Lane[] = []) => {
-  const emptyLanesSchema: LanesSchema = {
+export const getLanesSchema = (lanes = []) => {
+  const emptyLanesSchema = {
     lanes: {
       byId: {},
       ids: [],
@@ -10,7 +8,7 @@ export const getLanesSchema = (lanes: Lane[] = []) => {
   };
   const lanesSchema = lanes.reduce((acc, lane) => {
     const { assets = [], ...l } = lane;
-    const assetsIds: string[] = [];
+    const assetsIds = [];
     assets.forEach((ast) => {
       // updating assetsIds by pushing the new assetId
       assetsIds.push(ast.id);

@@ -17,6 +17,11 @@ module.exports = {
         use: ["babel-loader"],
       },
       {
+        test: /\.(ts|tsx)$/,
+        exclude: /node_modules/,
+        use: ["ts-loader"],
+      },
+      {
         test: /\.(c|sa|sc)ss$/,
         use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader"],
       },

@@ -1,6 +1,6 @@
 import { getLanesSchema } from "./helpers";
 
 export const fetchLanes = () =>
-  fetch("/api/blocks")
+  fetch(" http://localhost:3030/blocks")
     .then((r) => r.json())
     .then(getLanesSchema);

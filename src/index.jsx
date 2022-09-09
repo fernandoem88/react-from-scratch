@@ -1,8 +1,8 @@
 import React from "react";
-import ReactDOM from "react-dom";
-import "./App.scss"
+import { createRoot } from "react-dom/client";
+import HomeApp from "./apps/Home";
+import "./App.scss";
 
-ReactDOM.render(
-  <h1 className="red">Hello React <span>libindi</span>!</h1>,
-  document.getElementById("app-root")
-);
+const root = createRoot(document.getElementById("app-root"));
+
+root.render(<HomeApp />);

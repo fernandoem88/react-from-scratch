@@ -1,11 +1,11 @@
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import jsonToMq from "json2mq";
 import { BREAKPOINTS } from "../constants";
 
-const getMatches = (query: string): boolean => {
+const getMatches = (query) => {
   // Prevents SSR issues
   if (!query) return false;
-  if (!!window) {
+  if (typeof window !== "undefined") {
     return window.matchMedia(query).matches;
   }
   return false;
@@ -18,16 +18,14 @@ const getBreakPoint = () => {
   for (let [key, value] of sortedEntries) {
     const matches = getMatches(jsonToMq({ minWidth: value }));
     if (matches) {
-      return key as keyof typeof BREAKPOINTS;
+      return key;
     }
   }
   return "xs";
 };
 
 const useMediaQuery = () => {
-  const [breakPoint, setBreakPoint] = useState<keyof typeof BREAKPOINTS>(
-    getBreakPoint
-  );
+  const [breakPoint, setBreakPoint] = useState(getBreakPoint);
 
   const handleChange = useCallback(() => {
     const bp = getBreakPoint();
@@ -38,7 +36,7 @@ const useMediaQuery = () => {
     const medias = Object.entries(BREAKPOINTS).map(([key, value]) => {
       const qs = jsonToMq({ minWidth: value });
       const matchMedia = window.matchMedia(qs);
-      return [key, matchMedia] as const;
+      return [key, matchMedia];
     });
 
     // Triggered at the first client-side load and if query changes
@@ -57,9 +55,7 @@ const useMediaQuery = () => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  return useMemo(() => [breakPoint, BREAKPOINTS[breakPoint]] as const, [
-    breakPoint,
-  ]);
+  return [breakPoint, BREAKPOINTS[breakPoint]];
 };
 
 export default useMediaQuery;
