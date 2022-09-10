@@ -1,0 +1,7 @@
+@import "../../../../shared/css/mixins.scss";
+
+.lanes-list {
+  margin: auto;
+  width: 100%;
+  @include lanes-mq;
+}

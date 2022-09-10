@@ -5,6 +5,7 @@ import React, {
   useRef,
   useState,
 } from "react";
+import { motion } from "framer-motion";
 import {
   getCurrentIndexFromProps,
   getIsLeftActive,
@@ -12,37 +13,25 @@ import {
   getWrapperWidth,
 } from "./helpers";
 
-import * as sc from "./styled";
-
-interface Props {
-  cardIds: string[];
-  /** @description max cards to show on display */
-  maxCards: number;
-  /**
-   * @description a function callback to render a card given its id and a hidden props
-   */
-  renderCard: (id: string, hidden?: boolean) => JSX.Element;
-  /**
-   * @description a fallback component to should if cardIds array is Empty
-   */
-  fallback?: JSX.Element;
-  /**
-   * @param margin is a number in percentage and should be between 0 and 100
-   * @param centered a boolean that determines if the cards should be centered or aligned to the left, default value is `false`
-   */
-  style?: {
-    margin?: number;
-    centered?: boolean;
-  };
-  /** @description setting the start index value */
-  currentIndex?: number;
-}
-
-const Carousel: React.FC<Props> = (props) => {
+import "./style.scss";
+/**
+ *
+ * @param {*} props
+ * @returns
+ * @param cardIds
+ * @param maxCards max cards to show on display
+ * @param renderCard a function callback to render a card given its id and a hidden props. eg: (id: string, hidden?: boolean) => JSX.Element
+ * @param fallback a fallback component to should if cardIds array is Empty
+ * @param style.margin is a number in percentage and should be between 0 and 100
+ * @param style.centered a boolean that determines if the cards should be centered or aligned to the left, default value is `false`
+ * @param currentIndex  setting the start index value
+ */
+const Carousel = (props) => {
   if (props.maxCards <= 0) {
     throw new Error("props.maxCards should be a positive value bigger than 0");
   }
-  const { cardIds, maxCards, renderCard } = props;
+
+  const { cardIds, maxCards, renderCard, style } = props;
   const computedCurrentIndex = getCurrentIndexFromProps(
     props.cardIds.length,
     props.maxCards,
@@ -142,13 +131,9 @@ const Carousel: React.FC<Props> = (props) => {
   const statusDetailsRef = useRef(statusDetails);
   statusDetailsRef.current = statusDetails;
 
-  const isBlurred = useCallback((index: number) => {
-    const {
-      current,
-      previous,
-      maxCards,
-      cardsLength,
-    } = statusDetailsRef.current;
+  const isBlurred = useCallback((index) => {
+    const { current, previous, maxCards, cardsLength } =
+      statusDetailsRef.current;
     return (
       index < current || index > Math.min(current + maxCards - 1, cardsLength)
     );
@@ -159,13 +144,13 @@ const Carousel: React.FC<Props> = (props) => {
   const to = `calc(0px - ${(startIndex.current / maxCards) * 100}%)`;
 
   const renderCardWrapper = useCallback(
-    (id: string, index: number) => {
+    (id, index) => {
       const blurred = isBlurred(index);
 
       return (
-        <sc.Card key={id} $maxCards={maxCards}>
+        <div className="carousel__card" key={id} $maxCards={maxCards}>
           {renderCard(id, blurred)}
-        </sc.Card>
+        </div>
       );
     },
     [maxCards, renderCard, isBlurred]
@@ -180,32 +165,42 @@ const Carousel: React.FC<Props> = (props) => {
   const transitionDuration =
     startIndex.current === startIndex.previous ? 0 : 0.3;
   return (
-    <sc.Root>
-      <sc.ArrowWrapper>
+    <div
+      className="carousel"
+      style={{
+        "--carousel-cards-width": wrapperWidth,
+        "--carousel-max-cards": maxCards,
+      }}
+    >
+      <span className="carousel__arrow-wrapper carousel__arrow-wrapper--left">
         {isLeftActive && (
           <span onClick={handleLeft} data-testid="arrow-left">
             {"<"}
           </span>
         )}
-      </sc.ArrowWrapper>
-      <sc.CardsWrapper $width={wrapperWidth} $centered={props.style?.centered}>
-        <sc.AnimatedWrapper
+      </span>
+      <div
+        className={classnames("carousel__cards-wrapper", {
+          ["carousel__cards-wrapper--centered"]: style?.centered,
+        })}
+      >
+        <motion.div
+          className="carousel__animation-wrapper"
           initial={initial}
           animate={animate}
           transition={{ duration: transitionDuration }}
         >
           {cardIds.map(renderCardWrapper)}
-        </sc.AnimatedWrapper>
-      </sc.CardsWrapper>
-      <sc.ArrowWrapper $right={true}>
+        </motion.div>
+      </div>
+      <span className="carousel__arrow-wrapper carousel__arrow-wrapper--right">
         {isRightActive && (
           <span onClick={handleRight} data-testid="arrow-right">
             {">"}
           </span>
         )}
-      </sc.ArrowWrapper>
-    </sc.Root>
+      </span>
+    </div>
   );
 };
-export type CarouselProps = Props;
 export default React.memo(Carousel);

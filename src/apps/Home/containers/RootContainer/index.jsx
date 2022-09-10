@@ -1,27 +1,18 @@
-import React, { useEffect } from "react";
+import React from "react";
+import { MessageWrapper } from "../../../../shared/components";
 
 import { $HomeApp } from "../../index";
+import LanesListContainer from "../LanesListContainer";
 
 const RootContainer = () => {
   const isLoading = $HomeApp.useSlice("isLoading");
   const error = $HomeApp.useSlice("error");
-  const laneIds = $HomeApp.useSlice("laneIds");
 
-  const deps = isLoading ? [1] : [1, 2];
+  if (isLoading) return <MessageWrapper>loading...</MessageWrapper>;
 
-  useEffect(() => {
-    console.log("use effect deps variable");
-  }, deps);
-  if (isLoading) return <div>is loading</div>;
+  if (error) return <MessageWrapper>{error?.message}</MessageWrapper>;
 
-  return (
-    <div>
-      {!laneIds.length && <div>no data</div>}
-      {laneIds.map((laneId) => (
-        <div key={laneId}>{laneId}</div>
-      ))}
-    </div>
-  );
+  return <LanesListContainer />;
 };
 
 export default React.memo(RootContainer);

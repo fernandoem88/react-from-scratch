@@ -1,0 +1,30 @@
+@import "./variables.scss";
+
+/// Mixin to manage responsive breakpoints
+/// @param {String} $breakpoint - Breakpoint name
+/// @require $breakpoints
+@mixin mq($breakpoint) {
+  @if map-has-key($breakpoints, $breakpoint) {
+    @media (min-width: map-get($breakpoints, $breakpoint)) {
+      @content;
+    }
+  } @else {
+    @error "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "
+          + "Available breakpoints are: #{map-keys($breakpoints)}.";
+  }
+}
+
+@mixin lanes-mq {
+  @include mq("xs") {
+    max-width: 40rem;
+  }
+  @include mq("sm") {
+    max-width: 56rem;
+  }
+  @include mq("md") {
+    max-width: 74rem;
+  }
+  @include mq("lg") {
+    max-width: 86rem;
+  }
+}

@@ -12,6 +12,8 @@
       "strict": true,
       "sourceMap": true,
       "target": "esnext",
+      "baseUrl": "./",
+      "paths": {"@/*": ["src/*"]}
     },
     "exclude": [
       "node_modules"
