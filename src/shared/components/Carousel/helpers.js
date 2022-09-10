@@ -1,5 +1,3 @@
-import { CarouselProps } from ".";
-
 export const getIsRightActive = (currentIndex, cardsLength, maxCards) =>
   currentIndex + maxCards < cardsLength;
 

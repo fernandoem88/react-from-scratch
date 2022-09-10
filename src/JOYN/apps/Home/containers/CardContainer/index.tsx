@@ -1,21 +1,20 @@
 import React, { useCallback } from "react";
-import { useRouter } from "next/router";
 
-import Card from "@src/shared/components/Card";
-import { $lanes } from "@src/shared/queries";
+import Card from "@/shared/components/Card";
+import { $HomeApp } from "@/apps/Home";
 
 interface Props {
   id: string;
   hidden?: boolean;
 }
 const CardContainer: React.FC<Props> = (props) => {
-  const [asset] = $lanes.useSelector((s) => s.getAssetById(props.id));
+  const assets = $HomeApp.useSlice("assets");
 
-  const router = useRouter();
+  const asset = assets?.[props.id];
 
-  const handleClick = useCallback(() => {
-    router.push("/asset/" + props.id);
-  }, [props.id, router]);
+  const handleClick = () => {
+    console.log("asset" + props.id, "clicked");
+  };
 
   if (!asset) return null;
 

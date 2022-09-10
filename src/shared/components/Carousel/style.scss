@@ -3,7 +3,7 @@
   align-items: center;
   overflow: hidden;
   &:not(:hover) .carousel__arrow-wrapper {
-    opacity: 0;
+    opacity: 0.4;
   }
 }
 

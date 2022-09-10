@@ -1,5 +1,6 @@
 import React from "react";
 import Carousel from "../Carousel";
+import MessageWrapper from "../MessageWrapper";
 import "./style.scss";
 
 const CardsList = ({

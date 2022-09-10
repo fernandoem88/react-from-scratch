@@ -5,6 +5,7 @@ import React, {
   useRef,
   useState,
 } from "react";
+import classnames from "classnames";
 import { motion } from "framer-motion";
 import {
   getCurrentIndexFromProps,
@@ -148,7 +149,7 @@ const Carousel = (props) => {
       const blurred = isBlurred(index);
 
       return (
-        <div className="carousel__card" key={id} $maxCards={maxCards}>
+        <div className="carousel__card" key={id}>
           {renderCard(id, blurred)}
         </div>
       );
@@ -172,13 +173,13 @@ const Carousel = (props) => {
         "--carousel-max-cards": maxCards,
       }}
     >
-      <span className="carousel__arrow-wrapper carousel__arrow-wrapper--left">
+      <div className="carousel__arrow-wrapper carousel__arrow-wrapper--left">
         {isLeftActive && (
           <span onClick={handleLeft} data-testid="arrow-left">
             {"<"}
           </span>
         )}
-      </span>
+      </div>
       <div
         className={classnames("carousel__cards-wrapper", {
           ["carousel__cards-wrapper--centered"]: style?.centered,
@@ -193,13 +194,13 @@ const Carousel = (props) => {
           {cardIds.map(renderCardWrapper)}
         </motion.div>
       </div>
-      <span className="carousel__arrow-wrapper carousel__arrow-wrapper--right">
+      <div className="carousel__arrow-wrapper carousel__arrow-wrapper--right">
         {isRightActive && (
           <span onClick={handleRight} data-testid="arrow-right">
             {">"}
           </span>
         )}
-      </span>
+      </div>
     </div>
   );
 };
