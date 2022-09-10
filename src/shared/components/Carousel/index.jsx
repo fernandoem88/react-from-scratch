@@ -144,19 +144,6 @@ const Carousel = (props) => {
   const from = `calc(0px - ${(startIndex.previous / maxCards) * 100}%)`;
   const to = `calc(0px - ${(startIndex.current / maxCards) * 100}%)`;
 
-  const renderCardWrapper = useCallback(
-    (id, index) => {
-      const blurred = isBlurred(index);
-
-      return (
-        <div className="carousel__card" key={id}>
-          {renderCard(id, blurred)}
-        </div>
-      );
-    },
-    [maxCards, renderCard, isBlurred]
-  );
-
   const initial = useMemo(() => ({ x: from }), [from]);
   const animate = useMemo(() => ({ x: to }), [to]);
 
@@ -191,7 +178,14 @@ const Carousel = (props) => {
           animate={animate}
           transition={{ duration: transitionDuration }}
         >
-          {cardIds.map(renderCardWrapper)}
+          {cardIds.map((id, index) => {
+            const blurred = isBlurred(index);
+            return (
+              <div className="carousel__card" key={id}>
+                {renderCard(id, blurred)}
+              </div>
+            );
+          })}
         </motion.div>
       </div>
       <div className="carousel__arrow-wrapper carousel__arrow-wrapper--right">

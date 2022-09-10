@@ -8,7 +8,9 @@ module.exports = {
   entry: "./src/index.jsx",
   output: {
     path: __dirname + "/dist/",
+    publicPath: "/",
   },
+
   module: {
     rules: [
       {
@@ -36,6 +38,10 @@ module.exports = {
     ],
   },
   devtool: prod ? undefined : "source-map",
+
+  devServer: {
+    historyApiFallback: true,
+  },
   plugins: [
     new HtmlWebpackPlugin({
       template: "index.html",

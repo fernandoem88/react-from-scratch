@@ -15,16 +15,16 @@
 }
 
 @mixin lanes-mq {
-  @include mq("xs") {
+  @include mq("md") {
     max-width: 40rem;
   }
-  @include mq("sm") {
+  @include mq("lg") {
     max-width: 56rem;
   }
-  @include mq("md") {
-    max-width: 74rem;
+  @include mq("xl") {
+    max-width: 72rem;
   }
-  @include mq("lg") {
-    max-width: 86rem;
+  @include mq("xxl") {
+    max-width: 80rem;
   }
 }

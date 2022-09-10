@@ -11,11 +11,11 @@ const LanesListContainer = () => {
   if (!laneIds) return <MessageWrapper>no lanes data</MessageWrapper>;
 
   return (
-    <div className="lanes-list">
+    <main className="lanes-list">
       {laneIds.map((laneId) => (
         <LaneContainer key={laneId} id={laneId} />
       ))}
-    </div>
+    </main>
   );
 };
 

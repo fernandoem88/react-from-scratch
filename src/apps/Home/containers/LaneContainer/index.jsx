@@ -26,7 +26,7 @@ const LaneContainer = (props) => {
     "There is no items right now, please try again later!";
 
   return (
-    <div className="lane-container">
+    <section className="lane-container">
       <CardsList
         cardIds={lane.assetsIds}
         title={lane.headline}
@@ -36,7 +36,7 @@ const LaneContainer = (props) => {
         style={style}
         // currentIndex={2}
       />
-    </div>
+    </section>
   );
 };
 export default LaneContainer;

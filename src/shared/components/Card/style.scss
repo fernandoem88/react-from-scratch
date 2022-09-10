@@ -10,12 +10,11 @@
   background-repeat: no-repeat;
   cursor: pointer;
   transition: 0.2s;
-  border: solid 1px transparent;
 
   &:hover {
     transform: translateY(-10px);
 
-    box-shadow: 0 6px 12px #222;
+    box-shadow: 0 6px 12px var(--card-color-0);
   }
 
   &--hidden {

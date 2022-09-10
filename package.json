@@ -37,6 +37,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-pizza-cutter": "https://github.com/fernandoem88/react-pizza-cutter.git#main",
+    "react-router-dom": "^6.3.0",
     "sass": "^1.54.9",
     "sass-loader": "^13.0.2",
     "style-loader": "^3.3.1"

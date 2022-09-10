@@ -4,8 +4,10 @@ import useMediaQuery from "./useMediaQuery";
 const useMaxCards = () => {
   const [, breakPoint] = useMediaQuery();
   const maxCards =
-    breakPoint <= BREAKPOINTS.sm
+    breakPoint <= BREAKPOINTS.xs
       ? 1
+      : breakPoint <= BREAKPOINTS.sm
+      ? 2
       : breakPoint <= BREAKPOINTS.md
       ? 3
       : breakPoint <= BREAKPOINTS.lg
