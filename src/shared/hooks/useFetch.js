@@ -15,6 +15,7 @@ export const useFetch = (
   }
   useEffect(() => {
     setIsLoading(true);
+    setError(null);
     dataFetcher(...fetcherParams)
       .then((data) => {
         setData(data);

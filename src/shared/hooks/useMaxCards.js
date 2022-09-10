@@ -1,14 +1,7 @@
-import { useEffect } from "react";
 import { BREAKPOINTS } from "../constants";
 import useMediaQuery from "./useMediaQuery";
 
-// <HookWrapp>
-
 const useMaxCards = () => {
-  useEffect(() => {
-    return () => {};
-  }, []);
-
   const [, breakPoint] = useMediaQuery();
   const maxCards =
     breakPoint <= BREAKPOINTS.sm
