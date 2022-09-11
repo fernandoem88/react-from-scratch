@@ -1,33 +1,7 @@
 import React from "react";
 import { render, fireEvent, screen } from "@testing-library/react";
-import Carousel, { CarouselProps } from "./index";
-import { getCurrentIndexFromProps } from "./helpers";
 
-describe("testing getCurrentIndexFromProps function", () => {
-  test(`it should return 0 if currentIndex is not defined`, () => {
-    expect(getCurrentIndexFromProps(5, 2)).toBe(0);
-  });
-
-  test(`it should return 0 if maxCards is bigger or equal to cardsLength`, () => {
-    expect(getCurrentIndexFromProps(5, 5, 1)).toBe(0);
-    expect(getCurrentIndexFromProps(5, 7, 1)).toBe(0);
-  });
-
-  test("it should return the given currentIndex value when that value is between [0, cardsLength - maxCards]", () => {
-    const cardsLength = 5;
-    const maxCards = 2;
-    expect(getCurrentIndexFromProps(cardsLength, maxCards, 1)).toBe(1);
-    expect(getCurrentIndexFromProps(cardsLength, maxCards, 2)).toBe(2);
-  });
-
-  test(`it should return "cardsLength - maxCards" value when the given currentIndex value is bigger than "cardsLength - maxCards"`, () => {
-    const CardsLength = 5;
-    const maxCards = 2;
-    expect(getCurrentIndexFromProps(CardsLength, maxCards, 4)).toBe(
-      CardsLength - maxCards
-    );
-  });
-});
+import Carousel from "../index";
 
 describe("Testing Carousel component with 5 cards showing 2 cards at the time", () => {
   const testIds = {
@@ -40,11 +14,11 @@ describe("Testing Carousel component with 5 cards showing 2 cards at the time", 
   const cardIds = new Array(5).fill("").map((_, idx) => idx + "");
   const maxCards = 2;
 
-  const props: CarouselProps = {
+  const props = {
     cardIds,
     maxCards,
     style: { margin: 0, centered: true },
-    renderCard: (id: string, hidden?: boolean) => {
+    renderCard: (id, hidden) => {
       return (
         <div data-testid={testIds.card}>
           <div data-testid={hidden ? testIds.hidden : testIds.visible}>

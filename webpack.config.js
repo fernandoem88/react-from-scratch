@@ -1,4 +1,5 @@
 const path = require("path");
+var autoprefixer = require("autoprefixer");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
@@ -26,8 +27,19 @@ module.exports = {
       },
       {
         test: /\.(c|sa|sc)ss$/,
-        use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader"],
+        use: [
+          prod ? MiniCssExtractPlugin.loader : "style-loader",
+          "css-loader",
+          "sass-loader",
+          "postcss-loader",
+        ],
       },
+      /*{
+        test: /\.scss$/,
+        exclude: /node_modules/,
+        use: ["style-loader", "css-loader", "postcss-loader", "sass-loader"],
+      },*/
+
       {
         test: /\.(png|jpe?g|gif)$/i,
         use: [
@@ -38,7 +50,7 @@ module.exports = {
       },
     ],
   },
-  devtool: prod ? undefined : "source-map",
+  // devtool: prod ? undefined : "source-map",
 
   devServer: {
     historyApiFallback: true,
