@@ -5,8 +5,7 @@ import { $HomeApp } from "../../index";
 import LanesListContainer from "../LanesListContainer";
 
 const RootContainer = () => {
-  const isLoading = $HomeApp.useSlice("isLoading");
-  const error = $HomeApp.useSlice("error");
+  const { isLoading, error } = $HomeApp.useSlice("status");
 
   if (isLoading) return <MessageWrapper>loading...</MessageWrapper>;
 

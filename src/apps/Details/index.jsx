@@ -4,20 +4,24 @@ import { createPizzaCutter } from "react-pizza-cutter";
 import { useFetch } from "../../shared/hooks/useFetch";
 import { fetchAsset } from "./utils/actions";
 
-export const $DetailsApp = createPizzaCutter(["asset", "isLoading", "error"]);
+export const $DetailsApp = createPizzaCutter([
+  "asset",
+  "recommendedAssets",
+  "status",
+]);
 
 const DetailsApp = () => {
-  const assetId = useParams();
-  const { isLoading, error, data } = useFetch(fetchAsset, [assetId]);
+  const { assetId } = useParams();
+  const { status, data } = useFetch(fetchAsset, [assetId]);
 
   console.log("Details app data");
-  console.log(isLoading, error, data);
+  console.log(status, data);
   return (
     <$DetailsApp.PizzaCutter
       slices={{
-        assets: data ?? {},
-        isLoading,
-        error,
+        assets: data?.assets,
+        recommendedAssets: data?.recommendedAssets,
+        status,
       }}
     >
       <div>Details page</div>
@@ -25,4 +29,4 @@ const DetailsApp = () => {
   );
 };
 
-export default DetailsApp;
+export default React.memo(DetailsApp);
