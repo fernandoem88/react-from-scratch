@@ -1,6 +1,6 @@
 import React from "react";
+import { Layout, MessageWrapper } from "@src/shared/components";
 
-import { Layout, MessageWrapper } from "../../../../shared/components";
 import { $HomeApp } from "../../index";
 import LanesListContainer from "../LanesListContainer";
 

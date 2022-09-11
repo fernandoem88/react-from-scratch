@@ -1,6 +1,5 @@
 import axios from "axios";
-import { API_URL } from "../../../shared/constants";
-import { getAssetSchema } from "./helpers";
+import { API_URL } from "@src/shared/constants";
 
 export const fetchAsset = async (assetId) => {
   try {
@@ -9,7 +8,8 @@ export const fetchAsset = async (assetId) => {
     if (!asset) {
       throw { message: "asset not found" };
     }
-    return getAssetSchema(asset);
+    const { recommendedAssets = [], ...baseAsset } = asset;
+    return { asset: baseAsset };
   } catch (error) {
     return {
       error: {

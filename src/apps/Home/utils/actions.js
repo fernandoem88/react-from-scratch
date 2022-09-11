@@ -1,5 +1,6 @@
 import axios from "axios";
-import { API_URL } from "../../../shared/constants";
+import { API_URL } from "@src/shared/constants";
+
 import { getLanesSchema } from "./helpers";
 
 export const fetchLanes = async () => {

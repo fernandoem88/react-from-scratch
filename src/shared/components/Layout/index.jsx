@@ -6,7 +6,7 @@ const Layout = ({ children, header, footer }) => {
     <div className="layout">
       {!!header && <header className={"layout__header"}>{header}</header>}
       <div className="layout__content">{children}</div>
-      {!!footer && <footer>{footer}</footer>}
+      {!!footer && <footer className="layout__footer">{footer}</footer>}
     </div>
   );
 };

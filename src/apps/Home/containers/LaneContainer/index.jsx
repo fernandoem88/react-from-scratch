@@ -1,9 +1,10 @@
-import useMaxCards from "../../../../shared/hooks/useMaxCards";
 import React, { useCallback, useMemo } from "react";
-import { $HomeApp } from "../..";
-import { MessageWrapper, CardsList } from "../../../../shared/components";
+import useMaxCards from "@src/shared/hooks/useMaxCards";
+import { MessageWrapper, CardsList } from "@src/shared/components";
 
+import { $HomeApp } from "../..";
 import CardContainer from "../CardContainer";
+
 import "./style.scss";
 
 const defaultStyle = { margin: 25 };

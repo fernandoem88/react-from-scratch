@@ -1,8 +1,8 @@
 import React, { useCallback } from "react";
 import { useNavigate } from "react-router-dom";
-import { $HomeApp } from "../..";
+import Card from "@src/shared/components/Card";
 
-import Card from "../../../../shared/components/Card";
+import { $HomeApp } from "../..";
 
 const CardContainer = ({ id, hidden = false }) => {
   const assets = $HomeApp.useSlice("assets");

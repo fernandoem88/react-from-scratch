@@ -1,8 +1,9 @@
 import React from "react";
+import { MessageWrapper } from "@src/shared/components";
 
-import { MessageWrapper } from "../../../../shared/components";
 import { $HomeApp } from "../../index";
 import LaneContainer from "../LaneContainer";
+
 import "./style.scss";
 
 const LanesListContainer = () => {
