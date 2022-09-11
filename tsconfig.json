@@ -13,7 +13,7 @@
       "sourceMap": true,
       "target": "esnext",
       "baseUrl": "./",
-      "paths": {"@/*": ["./src/*"]}
+      "paths": {"@src/*": ["./src/*"]}
     },
     "exclude": [
       "node_modules"

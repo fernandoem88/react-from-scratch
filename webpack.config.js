@@ -1,7 +1,8 @@
-const prod = process.env.NODE_ENV === "production";
-
+const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+
+const prod = process.env.NODE_ENV === "production";
 
 module.exports = {
   mode: prod ? "production" : "development",
@@ -49,6 +50,7 @@ module.exports = {
     new MiniCssExtractPlugin(),
   ],
   resolve: {
+    alias: { "@src": path.resolve(__dirname, "src/") },
     extensions: ["*", ".js", ".jsx"],
   },
 };

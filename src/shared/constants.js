@@ -10,3 +10,10 @@ export const BREAKPOINTS = {
   xxxl: 1400,
   xxxxl: 1900,
 };
+
+export const BEM =
+  (block) =>
+  (element = "", modifier = "") =>
+    `${block}${element ? `__${element}` : ""}${
+      modifier ? `--${modifier}` : ""
+    }`;

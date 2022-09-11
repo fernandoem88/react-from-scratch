@@ -1,5 +1,5 @@
 import React from "react";
-import notFound from "./not-found.png";
+import notFound from "@src/shared/img/not-found.png";
 import "./style.scss";
 
 const Card = ({ asset, onClick, hidden = false }) => {

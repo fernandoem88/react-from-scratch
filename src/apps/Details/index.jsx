@@ -1,8 +1,10 @@
 import React from "react";
-import { useLocation, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { createPizzaCutter } from "react-pizza-cutter";
 import { useFetch } from "../../shared/hooks/useFetch";
 import { fetchAsset } from "./utils/actions";
+import RootContainer from "./containers/RootContainer";
+import { Layout } from "@src/shared/components";
 
 export const $DetailsApp = createPizzaCutter([
   "asset",
@@ -19,12 +21,14 @@ const DetailsApp = () => {
   return (
     <$DetailsApp.PizzaCutter
       slices={{
-        assets: data?.assets,
+        asset: data?.asset,
         recommendedAssets: data?.recommendedAssets,
         status,
       }}
     >
-      <div>Details page</div>
+      <Layout header={<h1>Asset details</h1>}>
+        <RootContainer />
+      </Layout>
     </$DetailsApp.PizzaCutter>
   );
 };

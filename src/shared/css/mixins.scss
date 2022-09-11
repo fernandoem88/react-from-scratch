@@ -13,18 +13,3 @@
           + "Available breakpoints are: #{map-keys($breakpoints)}.";
   }
 }
-
-@mixin lanes-mq {
-  @include mq("md") {
-    max-width: 40rem;
-  }
-  @include mq("lg") {
-    max-width: 56rem;
-  }
-  @include mq("xl") {
-    max-width: 72rem;
-  }
-  @include mq("xxl") {
-    max-width: 80rem;
-  }
-}

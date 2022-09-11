@@ -1,6 +1,6 @@
 import React from "react";
-import { MessageWrapper } from "../../../../shared/components";
 
+import { Layout, MessageWrapper } from "../../../../shared/components";
 import { $HomeApp } from "../../index";
 import LanesListContainer from "../LanesListContainer";
 
@@ -11,7 +11,11 @@ const RootContainer = () => {
 
   if (error) return <MessageWrapper>{error?.message}</MessageWrapper>;
 
-  return <LanesListContainer />;
+  return (
+    <Layout>
+      <LanesListContainer />
+    </Layout>
+  );
 };
 
 export default React.memo(RootContainer);
