@@ -1,5 +1,6 @@
+const webpack = require("webpack");
 const path = require("path");
-var autoprefixer = require("autoprefixer");
+const autoprefixer = require("autoprefixer");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
@@ -62,11 +63,9 @@ module.exports = {
     new MiniCssExtractPlugin(),
     new webpack.LoaderOptionsPlugin({
       options: {
-        postcss: [
-          autoprefixer(),
-        ]
-      }
-    })
+        postcss: [autoprefixer()],
+      },
+    }),
   ],
   resolve: {
     alias: { "@src": path.resolve(__dirname, "src/") },

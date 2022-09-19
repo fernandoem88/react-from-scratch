@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "SET NODE_ENV=production && webpack",
-    "start": "webpack serve --port 3000",
+    "dev": "webpack serve --port 3000",
     "test": "jest",
     "api": "json-server --watch ./db/index.js --port 3030"
   },
