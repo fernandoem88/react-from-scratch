@@ -66,10 +66,11 @@
 
 .details-page__description-message {
   margin-top: 12px;
-  max-height: 220px;
+  max-height: 200px;
   overflow-y: auto;
   @include mq("sm") {
     margin-top: 16px;
+    margin-bottom: 40px;
   }
 }
 
