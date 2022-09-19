@@ -1,4 +1,4 @@
-import React from "react";
+ import React from "react";
 import notFound from "@src/shared/img/not-found.png";
 import "./style.scss";
 

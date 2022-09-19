@@ -1,6 +1,7 @@
 # Install
 
 ```bash
+npm i -g json-server
 npm i
 ```
 

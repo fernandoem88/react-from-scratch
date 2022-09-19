@@ -60,6 +60,13 @@ module.exports = {
       template: "index.html",
     }),
     new MiniCssExtractPlugin(),
+    new webpack.LoaderOptionsPlugin({
+      options: {
+        postcss: [
+          autoprefixer(),
+        ]
+      }
+    })
   ],
   resolve: {
     alias: { "@src": path.resolve(__dirname, "src/") },
